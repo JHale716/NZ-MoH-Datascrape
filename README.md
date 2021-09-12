@@ -9,7 +9,7 @@ The 1 pm data release will be scraped at 1:45pm each day
 * Covid tracer app https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-nz-covid-tracer-app-data
 * Vaccination data https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-vaccine-data
 
-The locations of interest data will be scraped at 20 past the hour every 2 hours between 6am and 8pm from this source file:///Users/willowgrove/GitHub-Installs/MoH-Website-Save/2021-09-12_08-04-12-loc/Support/covid-19-contact-tracing-locations-interest.html
+The locations of interest data will be scraped at 20 past the hour every 2 hours between 6am and 8pm from this source https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest
 
 The web page data is being localised so it should be viewable if accessed locally
 * The daily data release with csv or xls files for vaccines, cases, and tracer app will be included.
