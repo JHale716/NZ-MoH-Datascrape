@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="" class="no-js">
+<head>
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../../sites/all/themes/mohpub_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="The New Zealand Health Survey provides information about the health and wellbeing of New Zealanders." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey" />
+<link rel="shortlink" href="https://www.health.govt.nz/node/713" />
+<meta property="og:site_name" content="Ministry of Health NZ" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey" />
+<meta property="og:title" content="New Zealand Health Survey" />
+<meta property="og:description" content="The New Zealand Health Survey provides information about the health and wellbeing of New Zealanders." />
+  <title>New Zealand Health Survey | Ministry of Health NZ</title>
+  <link type="text/css" rel="stylesheet" href="../../../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/default/files/css/css_jqUBpWfMaxMiP7LismdZVlyVv8azUJSE2yaH58nj0cE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/default/files/css/css_Rb1wqFBC8VXCJC-BuNY53cvjjlj6UADGvqzo_f-1yN0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/default/files/css/css_38_K1lHKg-98m4KKRfv57JBK0gvlKscexGt9MKoi0DE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../../sites/default/files/css/css_r7NPyvpdYfAyZmk9zkK8OaFKEFj6er5ZJnam2H644DM.css" media="print" />
+  <link rel="alternate stylesheet" type="text/css" href="../../../sites/all/themes/mohpub_bootstrap/css/high-contrast.css" media="screen" title="High Contrast" />
+  <script src="../../../sites/default/files/js/js_zS-CmNFGyegtLYJmqFRpxQvvQrfPIFrOMq_3T3C8sZE.js"></script>
+<script src="../../../sites/default/files/js/js_fNgZ4Okisfr70Q0yvAYsATgB0o_jD3-srhQQ-VHmlXE.js"></script>
+<script src="../../../sites/default/files/js/js_YAdPZfg12M1m7ROp3_gVJPS5sArqL0kYQgNRPoicvHE.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-3573389-24", {"cookieDomain":".www.health.govt.nz","siteSpeedSampleRate":15});ga("send", "pageview");</script>
+<script src="../../../sites/default/files/js/js_QAXZNPwLISRLHqyNpT4Vvr_iqD9foD6GTbEjlhIIjeo.js"></script>
+<script src="../../../sites/default/files/js/js_4VW9edmu3V8VjGJxFfXGAwkXeW2cJIa5h-6y7SgwVrk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mohpub_bootstrap","theme_token":"DL--nj54Bu5Wlk9llMnzTrdee_ph5LyvI-urZ1GZ5Tc","js":{"sites\/all\/modules\/custom\/table_d3chart\/js\/table_d3chart.js":1,"sites\/all\/modules\/custom\/moh_d3\/moh_d3.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"modules\/field\/modules\/text\/text.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/c3\/c3.js":1,"sites\/all\/libraries\/d3\/d3.min.js":1,"sites\/all\/modules\/contrib\/d3\/js\/d3.js":1,"sites\/all\/libraries\/d3.helpers\/d3.helpers.js":1,"sites\/all\/libraries\/d3.c3\/d3-c3.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/assets\/ios-fix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.cookie.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.moh.announcement.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/svgeezy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/fitvids.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/script.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.google_analytics.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-accessibility.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/style-switcher.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/c3\/c3.css":1,"sites\/all\/libraries\/d3.c3\/d3-c3.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/fontawesome.min.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/solid.min.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/brands.min.css":1,"sites\/all\/modules\/features\/site_profile\/css\/fix-rubik-multiselect-height.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/style.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/responsive-tables.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/print.css":1}},"field_group":{"div":"full"},"ckeditor_accordion":{"collapseAll":1},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|docx|xlsx|pptx|pptm|ppsx|ppsm|epub"},"mohD3":{"C3Types":["line","spline","step","area","area-spline","area-step","bar","scatter","pie","donut","gauge"],"graphRender":"line","graphLegend":true,"graphDefaultColors":"#2b8cbe, #abdda4, #7f7f7f, #92cddc, #dc8b0c","graphDefaultGroupedTooltip":0,"graphDefaultGridX":0,"graphDefaultGridY":0,"graphDefaultLegendPosition":"top-right","graphDefaultTooltip":1,"graphDefaultDataLabel":0,"graphLegendStep":"5","graphInteraction":true,"graphTypes":"","graphXaxisShow":true,"graphXaxisLabel":"","graphYaxisLabel":"","graphXaxisType":"category","graphXaxisCentered":false,"graphXaxisRotation":"","graphXaxisHeight":"","graphYaxisShow":true,"graphYaxisMax":"","graphYaxisMin":"","graphYaxisInverted":false,"graphYaxisCenter":"","graphYaxisPrefix":"","graphYaxisSuffix":"","graphYaxisPosition":"","graphY2axisShow":false,"graphY2axisSource":"","graphY2axisMax":"","graphY2axisMin":"","graphGroups":"","graphRotated":false,"graphIgnoreEmpty":false,"graphLineDot":true,"graphBarRatio":"0.9","graphDot":true,"graphDotR":"2.5","graphFocus":false},"tableD3":{"show":"View table data source","hide":"Hide table data source"},"urlIsAjaxTrusted":{"\/nz-health-statistics\/national-collections-and-surveys\/surveys\/new-zealand-health-survey?mega=Health%20statistics\u0026title=NZ%20Health%20Survey":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/mohpub_bootstrap/js/assets/html5shiv.js"></script>
+    <script src="/sites/all/themes/mohpub_bootstrap/js/assets/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-713 node-type-page node-has-intro" >
+<!--googleoff: all-->
+  <div id="skip-link">
+    <a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#skip-content" id="skipper" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <header id="navbar" role="banner" class="navbar container navbar-default">
+          <ul class="menu nav navbar-nav secondary"><li class="first leaf jobs depth-1"><a href="https://careers.health.govt.nz" title="">Jobs</a></li>
+<li class="leaf news depth-1"><a href="../../../news-media" data-is-top-level="0" title="">News</a></li>
+<li class="leaf contact-us depth-1"><a href="../../../node/524" title="">Contact us</a></li>
+<li class="leaf facebook depth-1"><a href="https://www.facebook.com/minhealthnz/">Facebook</a></li>
+<li class="leaf twitter depth-1"><a href="https://twitter.com/minhealthnz" data-is-top-level="0" title="">Twitter</a></li>
+<li class="last leaf youtube depth-1"><a href="https://www.youtube.com/user/minhealthnz" data-is-top-level="0" title="">Youtube</a></li>
+</ul>        <div class="container">
+      <div class="navbar-header">
+                <a class="logo navbar-btn pull-left" href="../../../index.html" title="Home">
+          <img src="../../../sites/all/themes/mohpub_bootstrap/images/mohlogo.svg" alt="Ministry of Health" />
+        </a>
+                  <div class="region region-header-top">
+    <section id="block-apachesolr-panels-search-form" class="block block-apachesolr-panels clearfix">
+
+      
+  <form action="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-item-apachesolr-panels-search-form form-type-textfield form-group"> <label class="control-label" for="edit-apachesolr-panels-search-form">Search</label>
+<input title="Enter the terms you wish to search for." class="form-control form-text" type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-BLM8wmmDvZLWieQSTYQXN5uPKvXUD72uO5nTpysYX8M" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+</div></div></form>
+</section>
+  </div>
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button aria-expanded="false" aria-controls="megamenu" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="menu-text">Menu</span><span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+
+        </button>
+      </div>
+
+              <div class="navbar-collapse collapse">
+          <nav id="megamenu" role="navigation">
+                          <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="menu nav navbar-nav yamm navbar"><li class="first dropdown"><a href="../../../your-health" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-780">Your health <b class="caret"></b></a>
+    <div id="megamenu-dropdown-780" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../../your-health/conditions-and-treatments?mega=Your&#32;health&amp;title=Conditions&#32;&amp;&#32;treatments" class="menu-header">Conditions &amp; treatments</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../your-health/conditions-and-treatments/mental-health/depression?mega=Your&#32;health&amp;title=Depression">Depression</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/diabetes?mega=Your&#32;health&amp;title=Diabetes">Diabetes</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/influenza?mega=Your&#32;health&amp;title=Influenza">Influenza</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/measles?mega=Your&#32;health&amp;title=Measles">Measles</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/meningococcal-disease-including-meningitis?mega=Your&#32;health&amp;title=Meningococcal&#32;disease">Meningococcal disease</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/mumps?mega=Your&#32;health&amp;title=Mumps">Mumps</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/respiratory-syncytial-virus-rsv?mega=Your&#32;health&amp;title=RSV">RSV</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments/diseases-and-illnesses/sore-throat?mega=Your&#32;health&amp;title=Sore&#32;throat">Sore throat</a></li>
+                                  <li><a href="../../../your-health/conditions-and-treatments?mega=Your&#32;health&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../your-health/healthy-living?mega=Your&#32;health&amp;title=Healthy&#32;living" class="menu-header">Healthy living</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../your-health/healthy-living/drinking-water?mega=Your&#32;health&amp;title=Drinking-water">Drinking-water</a></li>
+                                  <li><a href="../../../your-health/healthy-living/food-activity-and-sleep/green-prescriptions?mega=Your&#32;health&amp;title=Green&#32;Prescriptions">Green Prescriptions</a></li>
+                                  <li><a href="../../../your-health/healthy-living/food-activity-and-sleep/healthy-eating?mega=Your&#32;health&amp;title=Healthy&#32;eating">Healthy eating</a></li>
+                                  <li><a href="../../../your-health/healthy-living/immunisation?mega=Your&#32;health&amp;title=Immunisation">Immunisation</a></li>
+                                  <li><a href="../../../your-health/healthy-living/food-activity-and-sleep/physical-activity?mega=Your&#32;health&amp;title=Physical&#32;activity">Physical activity</a></li>
+                                  <li><a href="../../../your-health/healthy-living/addictions/quitting-smoking?mega=Your&#32;health&amp;title=Smoking">Smoking</a></li>
+                                  <li><a href="../../../your-health/healthy-living/teeth-and-gums?mega=Your&#32;health&amp;title=Teeth&#32;and&#32;gums">Teeth and gums</a></li>
+                                  <li><a href="../../../your-health/healthy-living?mega=Your&#32;health&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../your-health/pregnancy-and-kids?mega=Your&#32;health&amp;title=Pregnancy&#32;and&#32;kids" class="menu-header">Pregnancy and kids</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../your-health/pregnancy-and-kids/birth-and-afterwards?mega=Your&#32;health&amp;title=Birth&#32;and&#32;afterwards">Birth and afterwards</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/first-year/helpful-advice-during-first-year/breastfeeding-perfect-you-and-your-baby?mega=Your&#32;health&amp;title=Breastfeeding">Breastfeeding</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/pregnancy?mega=Your&#32;health&amp;title=Pregnancy">Pregnancy</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/services-and-support-during-pregnancy?mega=Your&#32;health&amp;title=Services&#32;and&#32;support&#32;during&#32;pregnancy">Services and support during pregnancy</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/services-and-support-you-and-your-child?mega=Your&#32;health&amp;title=Services&#32;and&#32;support&#32;for&#32;you&#32;and&#32;your&#32;child">Services and support for you and your child</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/first-year?mega=Your&#32;health&amp;title=The&#32;first&#32;year">The first year</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids/under-fives?mega=Your&#32;health&amp;title=Under&#32;fives">Under fives</a></li>
+                                  <li><a href="../../../your-health/pregnancy-and-kids?mega=Your&#32;health&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../your-health/services-and-support?mega=Your&#32;health&amp;title=Services&#32;and&#32;support" class="menu-header">Services &amp; support</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../your-health/services-and-support/health-care-services/help-alcohol-and-drug-problems?mega=Your&#32;health&amp;title=Alcohol&#32;and&#32;drugs">Alcohol and drugs</a></li>
+                                  <li><a href="../../../your-health/services-and-support/disability-services?mega=Your&#32;health&amp;title=Disability&#32;services">Disability services</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/earthquake-support-line?mega=Your&#32;health&amp;title=Earthquake&#32;Support&#32;Line">Earthquake Support Line</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/healthline?mega=Your&#32;health&amp;title=Healthline">Healthline</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/mental-health-services?mega=Your&#32;health&amp;title=Mental&#32;health&#32;services">Mental health services</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/maori-health-provider-directory?mega=Your&#32;health&amp;title=Māori&#32;health&#32;providers">Māori health providers</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/services-older-people/rest-home-certification-and-audits?mega=Your&#32;health&amp;title=Rest&#32;home&#32;certification">Rest home certification</a></li>
+                                  <li><a href="../../../your-health/services-and-support/health-care-services/hospitals-and-specialist-services/travel-assistance?mega=Your&#32;health&amp;title=Travel&#32;assistance">Travel assistance</a></li>
+                                  <li><a href="../../../your-health/services-and-support?mega=Your&#32;health&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../../your-health/full-a-z?mega=Your&#32;health&amp;title=A-Z">View the full A-Z</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="../../../new-zealand-health-system" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-6076">NZ health system <b class="caret"></b></a>
+    <div id="megamenu-dropdown-6076" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people?mega=NZ&#32;health&#32;system&amp;title=Key&#32;organisations" class="menu-header">Key organisations</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people/crown-entities-and-statutory-boards?mega=NZ&#32;health&#32;system&amp;title=Crown&#32;entities&#32;&amp;&#32;agencies">Crown entities &amp; agencies</a></li>
+                                  <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people/district-health-boards?mega=NZ&#32;health&#32;system&amp;title=District&#32;health&#32;boards">District health boards</a></li>
+                                  <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people/non-governmental-organisations?mega=NZ&#32;health&#32;system&amp;title=Non-governmental&#32;organisations">Non-governmental organisations</a></li>
+                                  <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people/primary-health-organisations?mega=NZ&#32;health&#32;system&amp;title=Primary&#32;health&#32;organisations">Primary health organisations</a></li>
+                                  <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people/public-health-units?mega=NZ&#32;health&#32;system&amp;title=Public&#32;health&#32;units">Public health units</a></li>
+                                  <li><a href="../../../new-zealand-health-system/key-health-sector-organisations-and-people?mega=NZ&#32;health&#32;system&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../new-zealand-health-system/health-system-indicators-framework?mega=NZ&#32;health&#32;system&amp;title=Health&#32;System&#32;Indicators&#32;framework" class="menu-header">Health System Indicators framework</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../new-zealand-health-system/health-system-indicators-framework?mega=NZ&#32;health&#32;system&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services?mega=NZ&#32;health&#32;system&amp;title=Eligibility&#32;for&#32;public&#32;health&#32;services" class="menu-header">Eligibility for public health services</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services/guide-eligibility-publicly-funded-health-services?mega=NZ&#32;health&#32;system&amp;title=Guide&#32;to&#32;eligibility">Guide to eligibility</a></li>
+                                  <li><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services/eligibility-questions-and-answers-consumers?mega=NZ&#32;health&#32;system&amp;title=Q&amp;A&#32;for&#32;consumers">Q&amp;A for consumers</a></li>
+                                  <li><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services/eligibility-questions-and-answers-service-providers?mega=NZ&#32;health&#32;system&amp;title=Q&amp;A&#32;for&#32;service&#32;providers">Q&amp;A for service providers</a></li>
+                                  <li><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services/reciprocal-health-agreements?mega=NZ&#32;health&#32;system&amp;title=Reciprocal&#32;health&#32;agreements">Reciprocal health agreements</a></li>
+                                  <li><a href="../../../new-zealand-health-system/eligibility-publicly-funded-health-services?mega=NZ&#32;health&#32;system&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements?mega=NZ&#32;health&#32;system&amp;title=Claims,&#32;provider&#32;payments&#32;and&#32;entitlements" class="menu-header">Claims &amp; provider payments</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements/carer-support-claims?mega=NZ&#32;health&#32;system&amp;title=Carer&#32;Support">Carer Support</a></li>
+                                  <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements/high-use-health-card-payments?mega=NZ&#32;health&#32;system&amp;title=High&#32;Use&#32;Health&#32;Card&#32;payments">High Use Health Card payments</a></li>
+                                  <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements/between-travel-settlement?mega=NZ&#32;health&#32;system&amp;title=In-Between&#32;Travel&#32;Settlement">In-Between Travel Settlement</a></li>
+                                  <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements/maternity-claim-forms?mega=NZ&#32;health&#32;system&amp;title=Maternity&#32;claim&#32;forms">Maternity claim forms</a></li>
+                                  <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements/national-travel-assistance?mega=NZ&#32;health&#32;system&amp;title=National&#32;travel&#32;assistance&#32;claims">National travel assistance claims</a></li>
+                                  <li><a href="../../../new-zealand-health-system/claims-provider-payments-and-entitlements?mega=NZ&#32;health&#32;system&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../../new-zealand-health-system/overview-health-system?mega=NZ&#32;health&#32;system&amp;title=Overview">Overview of the health system</a>  <a href="../../../new-zealand-health-system/my-dhb?mega=NZ&#32;health&#32;system&amp;title=Mydhb">My DHB</a> <a href="../../../new-zealand-health-system/system-level-measures-framework?mega=NZ&#32;health&#32;system&amp;title=SLM">System level measures</a>  <a href="../../../publication/new-zealand-health-strategy-2016?mega=NZ&#32;health&#32;system&amp;title=HealthStrategy">NZ Health Strategy</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="https://www.health.govt.nz/our-work" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-776">Our work <b class="caret"></b></a>
+  <div id="megamenu-dropdown-776" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../../our-work/diseases-and-conditions/antimicrobial-resistance?mega=Our&#32;work&amp;title=Antimicrobial&#32;resistance" class="menu-header">Antimicrobial resistance</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/populations/asian-and-migrant-health?mega=Our&#32;work&amp;title=Asian&#32;and&#32;migrant&#32;health" class="menu-header">Asian and migrant health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/border-health?mega=Our&#32;work&amp;title=Border&#32;health" class="menu-header">Border health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/life-stages/breastfeeding?mega=Our&#32;work&amp;title=Breastfeeding" class="menu-header">Breastfeeding</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/diseases-and-conditions/cancer?mega=Our&#32;work&amp;title=Cancer" class="menu-header">Cancer</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/regulation-health-and-disability-system/certification-health-care-services?mega=Our&#32;work&amp;title=Certification&#32;of&#32;health&#32;care&#32;services" class="menu-header">Certification of health care services</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/life-stages/child-health?mega=Our&#32;work&amp;title=Child&#32;health" class="menu-header">Child health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/diseases-and-conditions/covid-19-novel-coronavirus?mega=Our&#32;work&amp;title=COVID-19" class="menu-header">COVID-19 (novel coronavirus)</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/diseases-and-conditions/diabetes?mega=Our&#32;work&amp;title=Diabetes" class="menu-header">Diabetes</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/digital-health?mega=Our&#32;work&amp;title=Digital&#32;health" class="menu-header">Digital health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/disability-services?mega=Our&#32;work&amp;title=Disability&#32;services" class="menu-header">Disability services</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../../our-work/diseases-and-conditions?mega=Our&#32;work&amp;title=Diseases&#32;and&#32;conditions" class="menu-header">Diseases and conditions</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/hospitals-and-specialist-care/emergency-departments?mega=Our&#32;work&amp;title=Emergency&#32;departments" class="menu-header">Emergency departments</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/emergency-management?mega=Our&#32;work&amp;title=Emergency&#32;management" class="menu-header">Emergency management</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/environmental-health?mega=Our&#32;work&amp;title=Environmental&#32;health" class="menu-header">Environmental health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/family-violence?mega=Our&#32;work&amp;title=Family&#32;violence" class="menu-header">Family violence</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/fluoride-and-oral-health?mega=Our&#32;work&amp;title=Fluoride&#32;and&#32;oral&#32;health" class="menu-header">Fluoride and oral health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/health-identity?mega=Our&#32;work&amp;title=Health&#32;identity" class="menu-header">Health identity</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/digital-health/digital-health-sector-architecture-standards-and-governance/health-information-standards-0?mega=Our&#32;work&amp;title=Health&#32;information&#32;standards" class="menu-header">Health information standards</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/life-stages/health-older-people?mega=Our&#32;work&amp;title=Health&#32;of&#32;older&#32;people" class="menu-header">Health of older people</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/health-workforce?mega=Our&#32;work&amp;title=Health&#32;workforce" class="menu-header">Health workforce</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/hospitals-and-specialist-care?mega=Our&#32;work&amp;title=Hospitals&#32;and&#32;specialist&#32;care" class="menu-header">Hospitals and specialist care</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../../our-work/preventative-health-wellness/immunisation?mega=Our&#32;work&amp;title=Immunisation" class="menu-header">Immunisation</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/ionising-radiation-safety?mega=Our&#32;work&amp;title=Ionising&#32;radiation&#32;safety" class="menu-header">Ionising radiation safety</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/populations/maori-health?mega=Our&#32;work&amp;title=Māori&#32;health" class="menu-header">Māori health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/life-stages/maternity-services?mega=Our&#32;work&amp;title=Maternity" class="menu-header">Maternity</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/regulation-health-and-disability-system/medicinal-cannabis-agency?mega=Our&#32;work&amp;title=Medicinal&#32;Cannabis&#32;Agency" class="menu-header">Medicinal cannabis</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/regulation-health-and-disability-system/medicines-control?mega=Our&#32;work&amp;title=Medicines&#32;control" class="menu-header">Medicines control</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/mental-health-and-addiction?mega=Our&#32;work&amp;title=Mental&#32;health&#32;and&#32;addiction" class="menu-header">Mental health and addiction</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/nursing?mega=Our&#32;work&amp;title=Nursing" class="menu-header">Nursing</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/nutrition?mega=Our&#32;work&amp;title=Nutrition" class="menu-header">Nutrition</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/oral-health?mega=Our&#32;work&amp;title=Oral&#32;health" class="menu-header">Oral health</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/hospitals-and-specialist-care/organ-donation-and-transplantation?mega=Our&#32;work&amp;title=Organ&#32;donation&#32;and&#32;transplantation" class="menu-header">Organ donation and transplantation</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../../our-work/populations/pacific-health?mega=Our&#32;work&amp;title=Pacific&#32;health" class="menu-header">Pacific health</a>                              </li>
+                                                                    <li>
+                <a href="../../../new-zealand-health-system/pay-equity-settlements?mega=Our&#32;work&amp;title=Pay&#32;equity&#32;settlements" class="menu-header">Pay equity</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/physical-activity?mega=Our&#32;work&amp;title=Physical&#32;activity" class="menu-header">Physical activity</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/hospitals-and-specialist-care/planned-care-services?mega=Our&#32;work&amp;title=Planned&#32;Care&#32;services" class="menu-header">Planned Care services</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness?mega=Our&#32;work&amp;title=Preventative&#32;health%252Fwellness" class="menu-header">Preventative health/wellness</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/primary-health-care?mega=Our&#32;work&amp;title=Primary&#32;health&#32;care" class="menu-header">Primary health care</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/public-health-workforce-development?mega=Our&#32;work&amp;title=Public&#32;health&#32;workforce&#32;development" class="menu-header">Public health workforce</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/regulation-health-and-disability-system?mega=Our&#32;work&amp;title=Regulation" class="menu-header">Regulation</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/preventative-health-wellness/tobacco-control?mega=Our&#32;work&amp;title=Tobacco&#32;control" class="menu-header">Tobacco control</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/regulation-health-and-disability-system/regulation-vaping-and-smokeless-tobacco-products?mega=Our&#32;work&amp;title=Vaping&#32;and&#32;smokeless&#32;tobacco&#32;products" class="menu-header">Vaping &amp; smokeless tobacco</a>                              </li>
+                                                                    <li>
+                <a href="../../../our-work/who-code-nz?mega=Our&#32;work&amp;title=WHO&#32;Code&#32;in&#32;NZ" class="menu-header">WHO Code in NZ</a>                              </li>
+                      </ul>
+              </div>
+    </div>
+    <div class="feature-links">
+      <a href="../../../our-work?mega=Our&#32;work&amp;title=A-Z">View the full A-Z</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="../../../nz-health-statistics" class="dropdown-toggle active-trail" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-778">Health statistics <b class="caret"></b></a>
+    <div id="megamenu-dropdown-778" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../health-statistics-and-data-sets?mega=Health&#32;statistics&amp;title=Health&#32;statistics&#32;and&#32;data&#32;sets" class="menu-header">Statistics by topic</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../health-statistics-and-data-sets/cancer-data-and-stats?mega=Health&#32;statistics&amp;title=Cancer">Cancer</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/diabetes-data-and-stats?mega=Health&#32;statistics&amp;title=Diabetes">Diabetes</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/mental-health-data-and-stats?mega=Health&#32;statistics&amp;title=Mental&#32;health">Mental health</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/maori-health-data-and-stats?mega=Health&#32;statistics&amp;title=Māori&#32;health">Māori health</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/obesity-statistics?mega=Health&#32;statistics&amp;title=Obesity">Obesity</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/suicide-data-and-stats?mega=Health&#32;statistics&amp;title=Suicide">Suicide</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets/tobacco-data-and-stats?mega=Health&#32;statistics&amp;title=Tobacco">Tobacco</a></li>
+                                  <li><a href="../../health-statistics-and-data-sets?mega=Health&#32;statistics&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../national-collections-and-surveys?mega=Health&#32;statistics&amp;title=National&#32;collections&#32;and&#32;surveys" class="menu-header">About our surveys &amp; data collections</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="past-surveys/alcohol-and-drug-use-survey?mega=Health&#32;statistics&amp;title=Alcohol&#32;&amp;&#32;Drug&#32;Use&#32;Survey">Alcohol &amp; Drug Use Survey</a></li>
+                                  <li><a href="../national-collections-annual-maintenance-project?mega=Health&#32;statistics&amp;title=NCAMP">NCAMP</a></li>
+                                  <li><a href="../collections/new-zealand-cancer-registry-nzcr?mega=Health&#32;statistics&amp;title=NZ&#32;Cancer&#32;Registry">NZ Cancer Registry</a></li>
+                                  <li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey" class="active">NZ Health Survey</a></li>
+                                  <li><a href="past-surveys/nutrition-survey?mega=Health&#32;statistics&amp;title=Nutrition&#32;Survey">Nutrition Survey</a></li>
+                                  <li><a href="../collections/primhd-mental-health-data?mega=Health&#32;statistics&amp;title=PRIMHD">PRIMHD</a></li>
+                                  <li><a href="../../national-collections-and-surveys?mega=Health&#32;statistics&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../classification-and-terminology?mega=Health&#32;statistics&amp;title=Classification&#32;and&#32;Terminology" class="menu-header">Classification &amp; terminology</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../classification-and-terminology/using-icd-10-am-achi-acs/coding-queries/coding-query-database?mega=Health&#32;statistics&amp;title=Coding&#32;query&#32;database">Coding query database</a></li>
+                                  <li><a href="../../classification-and-terminology/using-icd-10-am-achi-acs/courses-clinical-coding?mega=Health&#32;statistics&amp;title=Courses&#32;on&#32;clinical&#32;coding">Courses on clinical coding</a></li>
+                                  <li><a href="../../classification-and-terminology/new-zealand-snomed-ct-national-release-centre?mega=Health&#32;statistics&amp;title=SNOMED&#32;CT">SNOMED CT</a></li>
+                                  <li><a href="../../classification-and-terminology/using-icd-10-am-achi-acs?mega=Health&#32;statistics&amp;title=Using&#32;ICD-10-AM%252FACHI%252FACS">Using ICD-10-AM/ACHI/ACS</a></li>
+                                  <li><a href="../../classification-and-terminology?mega=Health&#32;statistics&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../data-references?mega=Health&#32;statistics&amp;title=Data&#32;references" class="menu-header">Data references</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../data-references/code-tables?mega=Health&#32;statistics&amp;title=Code&#32;tables">Code tables</a></li>
+                                  <li><a href="../../data-references/data-dictionaries?mega=Health&#32;statistics&amp;title=Data&#32;dictionaries">Data dictionaries</a></li>
+                                  <li><a href="../../data-references/diagnosis-related-groups?mega=Health&#32;statistics&amp;title=Diagnosis-related&#32;groups">Diagnosis-related groups</a></li>
+                                  <li><a href="../../data-references/code-tables/common-code-tables/domicile-code-table?mega=Health&#32;statistics&amp;title=Domicile&#32;code&#32;table">Domicile code table</a></li>
+                                  <li><a href="../../data-references/mapping-tools?mega=Health&#32;statistics&amp;title=ICD&#32;mapping&#32;tools">ICD mapping tools</a></li>
+                                  <li><a href="../../data-references/weighted-inlier-equivalent-separations?mega=Health&#32;statistics&amp;title=Weighted&#32;Inlier&#32;Equivalent&#32;Separations">Weighted Inlier Equivalent Separations</a></li>
+                                  <li><a href="../../data-references?mega=Health&#32;statistics&amp;title=See&#32;all" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../health-statistics-and-data-sets/tier-1-health-statistics-release-calendar?mega=Health&#32;statistics&amp;title=Tier&#32;1&#32;calendar">Release calendar for our Tier 1 statistics</a> <a href="../../about-data-collection?mega=Health&#32;statistics&amp;title=Enquiries">Data and survey enquiries</a>    </div>
+  </div>
+</li>
+<li class=""><a href="../../../publications" aria-haspopup="false">Publications</a></li>
+<li class=""><a href="https://www.health.govt.nz/about-ministry" aria-haspopup="false">About us</a></li>
+<li class="visible-xs"><a href="../../../contactus" aria-haspopup="false">Contact us</a></li>
+</ul>
+                                  </nav>
+        </div>
+          </div>
+  </header>
+
+  <div class="main-container container">
+    <!-- announcement -->
+        <!-- /announcement -->
+
+    <header role="banner" id="page-header">
+      
+          </header> <!-- /#page-header -->
+
+    <div class="row">
+      
+      <section class="col-sm-12">
+                        <a id="main-content"></a>
+                                                                            <div class="breadcrumbs">
+            <ul><li><a href="../../../index.html">Home</a></li><li><a href="../../../nz-health-statistics" data-is-top-level="0" title="">Health statistics</a></li><li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys">National collections and surveys</a></li><li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys" data-is-top-level="1" title="">Surveys</a></li><li><span class="current-breadcrumb">New Zealand Health Survey</span></li></ul>          </div>
+        
+        
+        
+          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="bootstrap-threecol-stacked" >
+  
+      <div class="row"> <!-- @TODO: Add extra classes -->
+      <div class='panel-panel left col-xs-12 col-md-3 col-lg-3'><div class="panel-pane pane-block pane-menu-block-1 odd pane-top-link" >
+  
+        <span class="top-link"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys" data-is-top-level="1" class="active-trail">Surveys</a></span>
+    
+  
+  <div class="pane-content">
+        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-844 menu-level-2">
+  <ul class="menu nav"><li class="first leaf menu-mlid-950 about depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/about-surveys">About</a></li>
+<li class="leaf menu-mlid-951 information-for-survey-respondents depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/information-survey-respondents">Information for survey respondents</a></li>
+<li class="leaf menu-mlid-952 access-to-survey-microdata depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/access-survey-microdata">Access to survey microdata</a></li>
+<li class="expanded active-trail active menu-mlid-954 active new-zealand-health-survey depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey" class="active-trail active">New Zealand Health Survey</a><ul class="menu nav"><li class="first leaf menu-mlid-7164 improving-the-health-of-new-zealanders depth-5"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/improving-health-new-zealanders" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Improving the health of New Zealanders</a></li>
+<li class="leaf menu-mlid-9430 presentations depth-5"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/new-zealand-health-survey-presentations" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Presentations</a></li>
+<li class="leaf menu-mlid-10571 provisional-monthly-results-from-2020-21 depth-5"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/provisional-monthly-results-covid-19-impacts-2020-21-new-zealand-health-survey" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Provisional monthly results from 2020/21</a></li>
+<li class="leaf menu-mlid-7828 subscribe-for-updates depth-5"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/subscribe-new-zealand-health-survey-updates" class="menu-node-unpublished">Subscribe for updates</a></li>
+<li class="last leaf menu-mlid-10659 been-invited-to-take-part-learn-more-here depth-5"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/been-invited-take-part-learn-more-here">Been invited to take part? Learn more here</a></li>
+</ul></li>
+<li class="leaf menu-mlid-10104 covid-19-health-and-wellbeing-survey depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/covid-19-health-and-wellbeing-survey-information-participants" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">COVID-19 Health and Wellbeing Survey</a></li>
+<li class="last collapsed menu-mlid-953 past-surveys depth-4 same-level-as-node"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/past-surveys">Past surveys</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>      <div class='panel-panel middle col-xs-12 col-md-6 col-lg-6'><div class="panel-pane pane-page-title even" >
+  
+      
+  
+  <div class="pane-content">
+    <span id="skip-content" tabindex="-1"></span>    <h1>New Zealand Health Survey</h1>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-node-content odd" >
+  
+      
+  
+  <div class="pane-content">
+        <article id="node-713" class="node node-page node-sticky view-mode-full clearfix" about="/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="New Zealand Health Survey" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-field-intro-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="intro-text">The New Zealand Health Survey (NZHS) provides information about the health and wellbeing of New Zealanders. The NZHS became a continuous survey in 2011, enabling the publication of annual updates on the health of New Zealanders.</p></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>On this page:</strong></p>
+
+<ul>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#published">latest survey results</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#about">about the survey</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#method">survey methodology and information</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#micro">how to access survey microdata</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2020-21">2020/21 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2019-20">2019/20 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2018-19">2018/19 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2017-18">2017/18 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2016-17">2016/17 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2015-16">2015/16 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2015-16">2014/15 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2013-14">2013/14 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#2012-13">2012/13 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#11-12">2011/12 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#06-07">2006/07 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#02-03">2002/03 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#96-97">1996/97 Health Survey publications</a></li>
+	<li><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#92-93">1992/93 Health Survey publications</a></li>
+</ul>
+
+<hr />
+<h2><a name="published"></a>Latest survey results</h2>
+
+<p><strong><a href="https://www.health.govt.nz/publication/regional-results-2017-2020-new-zealand-health-survey">Regional Results 2017&ndash;2020: New Zealand Health Survey</a></strong><br />
+The Regional Data Explorer presents the 2017&ndash;2020 regional results from the New Zealand Health Survey, for both adults and children, for all District Health Board (DHB), Public Health Unit (PHU) and Regional Council levels. It includes more than 150 indicators on health behaviours, health status and access to health care.</p>
+
+<p><strong><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/provisional-monthly-results-covid-19-impacts-2020-21-new-zealand-health-survey">Provisional monthly results on COVID-19 impacts: 2020/21 New Zealand Health Survey</a></strong><br />
+These provisional monthly results cover health status and mental health, health behaviours to prevent COVID-19,&nbsp;information received about COVID-19, and worries about COVID-19.</p>
+
+<p><strong><a href="https://www.health.govt.nz/publication/annual-update-key-results-2019-20-new-zealand-health-survey">Annual Update of Key Results 2019/20: New Zealand Health Survey</a></strong><br />
+The Annual Data Explorer provides a snapshot of the health of New Zealanders through the publication of key indicators on health behaviours, health status and access to health care for both adults and children.</p>
+
+<p><strong><a href="https://www.health.govt.nz/publication/tier-1-statistics-2019-20-new-zealand-health-survey">Tier 1 Statistics 2019/20: New Zealand Health Survey</a></strong><br />
+This release covers the most important statistics (Tier 1) from the 2019/20 New Zealand Health Survey.</p>
+
+<p><strong><a href="https://www.health.govt.nz/publication/mental-health-2016-17-new-zealand-health-survey">Mental health 2016/17: New Zealand Health Survey</a></strong><br />
+The 2016/17 Mental Health Data Explorer presents survey results on mental health status, risk of problematic substance use, loneliness, informal help-seeking and access to mental health and addictions services for both adults and children.</p>
+
+<h2><a id="about" name="about"></a>About the survey</h2>
+
+<p>Information collected through the New Zealand Health Survey supports the development of health services, policy and strategy. Survey data is collected continuously but findings are reported annually.</p>
+
+<p>The results provide data for people selected for the survey period&nbsp;from July to June each year. Over 13,000 adults and the parents or primary caregivers of over 4,000 children take part in the survey each year.</p>
+
+<h2><a id="method" name="method"></a>Survey methodology and information</h2>
+
+<p><strong><a href="https://www.health.govt.nz/publication/methodology-report-2019-20-new-zealand-health-survey">Methodology Report 2019/20: New Zealand Health Survey</a></strong><br />
+This methodology report details the procedures and protocols followed to ensure the New Zealand Health Survey produces the high-quality and robust data expected of official statistics.</p>
+
+<p><a href="https://www.health.govt.nz/publication/questionnaires-and-content-guide-2019-20-new-zealand-health-survey"><strong>Questionnaires and Content Guide 2019/20: New Zealand Health Survey</strong></a><br />
+The questionnaires and content guide give information about the content of the adult and child surveys.</p>
+
+<p><strong><a href="https://www.health.govt.nz/publication/sample-design-2015-16-new-zealand-health-survey">Sample Design from 2015/16: New Zealand Health Survey</a></strong><br />
+This report outlines the sample design of the New Zealand Health Survey.</p>
+
+<p><a href="https://www.health.govt.nz/publication/new-zealand-health-survey-sample-design-years-1-3-2011-2013"><strong>Sample Design, Years 1&ndash;3 (2011&ndash;2013): New Zealand Health Survey</strong></a><br />
+This report describes the sample design of the New Zealand Health Survey which has been in the field from April 2011.</p>
+
+<p><strong><a href="https://www.health.govt.nz/publication/new-zealand-health-survey-objectives-and-topic-areas-august-2010">The New Zealand Health Survey: Objectives and topic areas</a></strong><br />
+This report outlines the key information domains and topic areas in the survey.</p>
+
+<h2><a name="micro"></a>Access to survey microdata</h2>
+
+<p>Researchers can apply to access the Confidentialised Unit Record Files (CURFs) from Ministry of Health population surveys after the key survey results have been released.</p>
+
+<p>CURFs have had all identifying information about individuals removed, and have been modified to protect individual information.</p>
+
+<p>You can view a list of available CURFs at <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/access-survey-microdata">Access to survey microdata</a>.</p>
+
+<p>Researcher access to these datasets is managed through Statistics New Zealand. Go to <a href="https://www.stats.govt.nz/integrated-data/apply-to-use-microdata-for-research/confidentialised-unit-record-files-curfs/">Confidentialised Unit Record Files</a> on the Statistics New Zealand website to view the eligibility criteria, the protocol for applying for access and the application form to access microdata.</p>
+
+<hr />
+<h2><a id="2020-21" name="2020-21"></a>2020/21 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/provisional-monthly-results-covid-19-impacts-2020-21-new-zealand-health-survey">Provisional monthly results on COVID-19 impacts: 2020/21 New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2019-20" name="2019-20"></a>2019/20 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/regional-results-2017-2020-new-zealand-health-survey">Regional Results 2017&ndash;2020: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/annual-update-key-results-2019-20-new-zealand-health-survey">Annual Update of Key Results 2019/20: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tier-1-statistics-2019-20-new-zealand-health-survey">Tier 1 Statistics 2019/20: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2019-20-new-zealand-health-survey">Methodology Report 2019/20: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/questionnaires-and-content-guide-2019-20-new-zealand-health-survey">Questionnaires and Content Guide 2019/20: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2018-19" name="2018-19"></a>2018/19 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/annual-update-key-results-2018-19-new-zealand-health-survey">Annual Update of Key Results 2018/19: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tier-1-statistics-2018-19-new-zealand-health-survey">Tier 1 statistics 2018/19: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2018-19-new-zealand-health-survey">Methodology Report 2018/19: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/content-guide-2018-19-new-zealand-health-survey">Questionnaires and Content Guide 2018/19: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2017-18" name="2017-18"></a>2017/18 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/annual-update-key-results-2017-18-new-zealand-health-survey">Annual Update of Key Results 2017/18: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tier-1-statistics-2017-18-new-zealand-health-survey">Tier 1 statistics 2017/18: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2017-18-new-zealand-health-survey">Methodology Report 2017/18: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/questionnaires-and-content-guide-2017-18-new-zealand-health-survey">Questionnaires and Content Guide 2017/18: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2016-17" name="2016-17"></a>2016/17 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/mental-health-2016-17-new-zealand-health-survey">Mental health 2016/17: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/annual-update-key-results-2016-17-new-zealand-health-survey">Annual Data Explorer 2016/17: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/regional-results-2014-2017-new-zealand-health-survey">Regional&nbsp;Results 2014&ndash;2017: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tier-1-statistics-2016-17-new-zealand-health-survey">Tier 1 statistics 2016/17: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2016-17-new-zealand-health-survey">Methodology Report 2016/17: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/content-guide-2016-17-new-zealand-health-survey">Questionnaires and Content Guide 2016/17: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2015-16" name="2015-16"></a>2015/16 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/annual-update-key-results-2015-16-new-zealand-health-survey">Annual Update of Key Results 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tier-1-statistics-2015-16-new-zealand-health-survey">Tier 1 statistics 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tobacco-and-electronic-cigarette-use-2015-16-new-zealand-health-survey">Tobacco and electronic cigarette use 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/social-emotional-and-behavioural-difficulties-new-zealand-children-new-zealand-health-survey">Social, Emotional and Behavioural Difficulties in New Zealand Children</a></li>
+	<li><a href="https://www.health.govt.nz/publication/amphetamine-use-2015-16-new-zealand-health-survey">Amphetamine Use 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/household-food-insecurity-among-children-new-zealand-health-survey">Household Food Insecurity among Children: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/indicator-interpretation-guide-2015-16-new-zealand-health-survey">Indicator Interpretation Guide 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2015-16-new-zealand-health-survey">Methodology Report 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/content-guide-2015-16-new-zealand-health-survey">Questionnaires and Content Guide 2015/16: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/sample-design-2015-16-new-zealand-health-survey">Sample Design from 2015/16: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2014-15" name="2015-16"></a>2014/15 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/biomedical-results-2014-15-new-zealand-health-survey">Biomedical results 2014/15: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/sexual-and-reproductive-health-2014-15-new-zealand-health-survey">Sexual and reproductive health 2014/15: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/private-health-insurance-coverage-2011-15-new-zealand-health-survey">Private Health Insurance Coverage 2011&ndash;15: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/questionnaires-and-content-guide-2014-15-new-zealand-health-survey">Questionnaires and Content Guide 2014/15: New Zealand Health Survey</a></li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/997AF4E3AAE9A767CC257F4C007DDD84">Annual Update of Key Results 2014/15: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li>Tier 1 statistics 2014/15: New Zealand Health Survey (archived; data included in latest annual results)</li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/3DD48A7E0AD81C66CC257DEA00738257">Amphetamine Use 2014/15: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/D43DFC51164D786BCC257DC6000D4A0A">Indicator Interpretation Guide 2014/15: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li><a href="https://www.health.govt.nz/publication/methodology-report-2014-15-new-zealand-health-survey">Methodology Report 2014/15: New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="2013-14" name="2013-14"></a>2013/14 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/understanding-excess-body-weight-new-zealand-health-survey">Understanding Excess Body Weight: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/questionnaires-and-content-guide-2013-14-new-zealand-health-survey">Questionnaires and Content Guide 2013/14: New Zealand Health Survey</a></li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/997AF4E3AAE9A767CC257F4C007DDD84">Annual Update of Key Results 2013/14: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li>Regional results from the 2011&ndash;2014 New Zealand Health Survey (archived; data included in latest regional results)</li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/3DD48A7E0AD81C66CC257DEA00738257">Amphetamine Use 2013/14: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/D43DFC51164D786BCC257DC6000D4A0A">Indicator Interpretation Guide 2013/14: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/38A0B04E793F5F1ECC257DC60008B736">Methodology Report 2013/14: New Zealand Health Survey</a> (in the Library Catalogue)</li>
+</ul>
+
+<h2><a id="2012-13" name="2012-13"></a>2012/13 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/alcohol-use-2012-13-new-zealand-health-survey">Alcohol Use 2012/13: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/tobacco-use-2012-13-new-zealand-health-survey">Tobacco Use 2012/13: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/cannabis-use-2012-13-new-zealand-health-survey">Cannabis Use 2012/13: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/new-zealand-health-survey-content-guide-and-questionnaires-2012-13">Questionnaires and Content Guide 2012/13: New Zealand Health Survey</a></li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/C5E688F85B4C4165CC2582A9006DB410">New Zealand Health Survey: Annual update of key findings 2012/13</a> (in the Library Catalogue)</li>
+	<li>Regional results from the 2011&ndash;13 New Zealand Health Survey&nbsp;(archived; data included in latest regional results)</li>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/3DD48A7E0AD81C66CC257DEA00738257">Amphetamine Use 2012/13: Key findings of the New Zealand Health Survey</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/38A0B04E793F5F1ECC257DC60008B736">Methodology Report 2012/13</a> (in the Library Catalogue)</li>
+</ul>
+
+<h2><a name="11-12"></a>2011/12 publications</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/publication/patient-experience-2011-12">Patient Experience 2011/12</a></li>
+	<li><a href="https://www.health.govt.nz/publication/emergency-department-use-2011-12">Emergency Department Use 2011/12</a></li>
+	<li><a href="https://www.health.govt.nz/publication/gambling-and-problem-gambling-results-2011-12-new-zealand-health-survey">Gambling and problem gambling: results of the 2011/12 New Zealand health survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/new-zealand-health-survey-content-guide-and-questionnaires-2011-2012">Questionnaires and Content Guide 2011/12: New Zealand Health Survey</a></li>
+	<li><a href="https://www.health.govt.nz/publication/new-zealand-health-survey-sample-design-years-1-3-2011-2013">Sample Design, Years 1&ndash;3 (2011&ndash;2013): New Zealand Health Survey</a></li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/C4DBAC9A2CAA0387CC257AF70004634E">The Health of New Zealand Adults 2011/12</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/35624B64BEC88496CC257AFA0069BF2A">The Health of New Zealand Children 2011/12</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/91F76502A61E4F3DCC257B4400040D92">The Health of Māori Adults and Children 2011/12</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/5C2C5379E8A87E61CC257B4F00828E85">The Health of Pacific Adults and Children 2011/12</a> (in the Library Catalogue)</li>
+	<li>Regional results 2011/12 (archived; data included in latest regional results)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/81BF301BDCF63B94CC257B6C006ED8EC">Hazardous drinking 2011/12</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/4131DD01B9B2606BCC257A5F007743BC">Problem Gambling 2011/12: Preliminary Results</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/38A0B04E793F5F1ECC257DC60008B736">Methodology report 2011/12</a>&nbsp;(in the Library Catalogue)</li>
+</ul>
+
+<h2><a name="06-07"></a>2006/07 publications</h2>
+
+<ul>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/9FF50018D90C43D3CC2574640009AE76">A Portrait of Health: Key results of the 2006/07 New Zealand Health Survey</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/01FE156D98B6EB7DCC2575CF0070101C">A focus on problem gambling 2006/07</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/826BF0B3C9F80420CC2576C5007D90F7">A focus on Māori and pacific children 2006/07</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/38A0B04E793F5F1ECC257DC60008B736">Methodology report 2006/07</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/A2402AFF9A227238CC257DC500701B0A">Content guide 2006/07</a>&nbsp;(in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/DD99C7ECDD5729F7CC25748D000C0AE7?opendocument">Body Size Technical Report: Measurements and classifications in the 2006/07 New Zealand Health Survey</a></li>
+</ul>
+
+<h2><a id="02-03" name="02-03"></a>2002/03 publications</h2>
+
+<ul>
+	<li><a href="http://www.moh.govt.nz/notebook/nbbooks.nsf/0/1A291BC68D950D60CC25770D007208AE?opendocument">A Portrait of Health: Key results of the 2002/03 New Zealand Health Survey</a> (in the Library Catalogue)</li>
+</ul>
+
+<h2><a id="96-97" name="96-97"></a>1996/97 publications</h2>
+
+<ul>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/B5DEDA9A12DACE3B4C25677D00720599?opendocument">Taking the Pulse: The 1996/97 New Zealand Health Survey</a> (in the Library Catalogue)</li>
+</ul>
+
+<h2><a id="92-93" name="92-93"></a>1992/93 publications</h2>
+
+<ul>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/284859DFA755A63C4C2565D700187296?opendocument">A Picture of Health</a> (in the Library Catalogue)</li>
+	<li><a href="http://www.moh.govt.nz/NoteBook/nbbooks.nsf/0/ED7D40AF2B9DE5BD4C2565D70018727B?opendocument">Shaping Up: A profile of New Zealanders&rsquo; patterns of smoking, drinking, exercise and body mass index</a> (in the Library Catalogue)</li>
+</ul>
+</div></div></div>    </article>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-node-links even" >
+  
+      
+  
+  <div class="pane-content">
+          </div>
+
+  
+  </div>
+<div class="panel-pane pane-views pane-sub-pages odd" >
+  
+        <h2 class="pane-title h3">In this section</h2>
+    
+  
+  <div class="pane-content">
+        <div class="view view-sub-pages view-id-sub_pages view-display-id-block view-dom-id-41d2f911144b192fbf2cd72dabeb1af8">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <div class="field-content">
+<div class="views-field views-field-title">
+  <h3 class="field-content">
+    <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/improving-health-new-zealanders">Improving the health of New Zealanders</a>  </h3>
+</div></div>  </div>  
+  <span class="views-field views-field-body">        <span class="field-content">Find out what&rsquo;s being done to improve the health of New Zealanders in the areas covered by the key results of the New Zealand Health Survey.
+</span>  </span>  
+  <span class="views-field views-field-view-node">        <span class="field-content"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/improving-health-new-zealanders">Read more</a></span>  </span></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <div class="field-content">
+<div class="views-field views-field-title">
+  <h3 class="field-content">
+    <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/new-zealand-health-survey-presentations">New Zealand Health Survey - presentations</a>  </h3>
+</div></div>  </div>  
+  <span class="views-field views-field-body">        <span class="field-content">New Zealand Health Survey topics presented at conferences
+</span>  </span>  
+  <span class="views-field views-field-view-node">        <span class="field-content"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/new-zealand-health-survey-presentations">Read more</a></span>  </span></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <div class="field-content">
+<div class="views-field views-field-title">
+  <h3 class="field-content">
+    <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/provisional-monthly-results-covid-19-impacts-2020-21-new-zealand-health-survey">Provisional monthly results on COVID-19 impacts: 2020/21 New Zealand Health Survey</a>  </h3>
+</div></div>  </div>  
+  <span class="views-field views-field-body">        <span class="field-content">The New Zealand Health Survey (NZHS) provides information about the health and wellbeing of New Zealanders. The NZHS is used to monitor population health, provide supporting evidence for health policy and strategy development, and more recently, support the Government&rsquo;s response to COVID-19.
+</span>  </span>  
+  <span class="views-field views-field-view-node">        <span class="field-content"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/provisional-monthly-results-covid-19-impacts-2020-21-new-zealand-health-survey">Read more</a></span>  </span></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <div class="field-content">
+<div class="views-field views-field-title">
+  <h3 class="field-content">
+    <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/subscribe-new-zealand-health-survey-updates">Subscribe for New Zealand Health Survey updates</a>  </h3>
+</div></div>  </div>  
+  <span class="views-field views-field-body">        <span class="field-content">Get emails when there&#39;s news from the New Zealand Health Survey.
+</span>  </span>  
+  <span class="views-field views-field-view-node">        <span class="field-content"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/subscribe-new-zealand-health-survey-updates">Read more</a></span>  </span></li>
+          <li class="views-row views-row-5 views-row-odd views-row-last">  
+  <div class="views-field views-field-title">        <div class="field-content">
+<div class="views-field views-field-title">
+  <h3 class="field-content">
+    <a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/been-invited-take-part-learn-more-here">Been invited to take part? Learn more here</a>  </h3>
+</div></div>  </div>  
+  <span class="views-field views-field-body">        <span class="field-content">Information for participants about the New Zealand Health Survey, including how interviews are conducted and their privacy protected.
+</span>  </span>  
+  <span class="views-field views-field-view-node">        <span class="field-content"><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/been-invited-take-part-learn-more-here">Read more</a></span>  </span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>      <div class='panel-panel right col-xs-12 col-md-3 col-lg-3'><div class="panel-pane pane-views pane-related-content-revisioning standard-block text-block even" >
+  
+      
+  
+  <div class="pane-content">
+        <div class="view view-related-content-revisioning view-id-related_content_revisioning view-display-id-block_4 view-dom-id-c92bed5e35ffaed1e0f106d945a28356">
+        
+  
+  
+      <div class="view-content">
+          
+  <div class="views-field views-field-field-text-block-revision-id">        <div class="field-content"><h3>Been invited to take part?</h3>
+
+<p>You may have come to this website because you have been invited to take part in the New Zealand Health Survey.</p>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/been-invited-take-part-learn-more-here">Find out more about the survey</a></li>
+</ul>
+
+<hr class="coloured-full-width" />
+<h2 class="h3">Where can I find health information?</h2>
+
+<p>A <a href="https://www.health.govt.nz/nz-health-statistics/where-can-i-find-health-information">directory of data sources</a> commonly used when analysing the health of New Zealand populations</p>
+
+<hr class="coloured-full-width" />
+<h2 class="h3">Subscribe to get updates</h2>
+
+<p><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/subscribe-new-zealand-health-survey-updates">Subscribe to get&nbsp;email updates</a> whenever there&#39;s news or a publication relating to the New Zealand Health Survey.</p>
+
+<hr class="coloured-full-width" />
+<h2 class="h3">Related areas</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/access-survey-microdata">Access to survey microdata</a></li>
+	<li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/been-invited-take-part-learn-more-here">Been invited to take part? Learn more here</a></li>
+	<li><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-and-tools/covid-19-health-and-wellbeing-survey">COVID-19 Health and Wellbeing Survey</a></li>
+</ul>
+
+<hr class="coloured-full-width" />
+<h2 class="h3">Presentations</h2>
+
+<ul>
+	<li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey/new-zealand-health-survey-presentations">2014/15 New Zealand Health Survey</a></li>
+</ul>
+</div>  </div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+
+  
+  </div>
+</div>    </div>
+  
+  </div>
+
+</section>
+  </div>
+      </section>
+
+      
+    </div>
+    <div id="content-footer-wrapper" class="clearfix">
+      <div id="content-footer" class="clearfix">
+                  <p class="page_updated">Page last updated: <span class="date">15 October 2021</span></p>                  <div class="region region-content-footer">
+    <section id="block-moh-tools-page-tools" class="block block-moh-tools clearfix">
+  <a href="#"
+        data-placement="top"
+        data-title="Share this content."
+        data-html="true"
+        data-content="<p>Share this page on some of the most popular social networking and content sites on the internet.</p><div class='service-links'><ul><li><a href='https://twitter.com/share?url=https%3A//www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey&amp;text=New%20Zealand%20Health%20Survey' title='Share this on Twitter' class='service-links-twitter' rel='nofollow'><img typeof='foaf:Image' class='img-responsive' src='../../../sites/all/modules/contrib/service_links/images/twitter.png' alt='Twitter' /> Twitter</a></li>
+<li><a href='https://www.facebook.com/sharer.php?u=https%3A//www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey&amp;t=New%20Zealand%20Health%20Survey' title='Share on Facebook' class='service-links-facebook' rel='nofollow'><img typeof='foaf:Image' class='img-responsive' src='../../../sites/all/modules/contrib/service_links/images/facebook.png' alt='Facebook' /> Facebook</a></li>
+</ul></div>" class="share-this-content"><i class="fa fa-share"></i> Share</a><a href="new-zealand-health-survey?mega=Health&#32;statistics&amp;title=NZ&#32;Health&#32;Survey#" title="print this page" class="print"><i class="fa fa-print"></i> Print</a><a href="https://www.health.govt.nz/forward?path=node/713" title="Email this page" class="email"><i class="fa fa-envelope"></i> Email</a><a href="https://www.health.govt.nz/feedback?ref=https%3A//www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey" title="Feedback" class="rss"><i class="fa fa-comment"></i> Feedback</a></section>
+
+  </div>
+      </div>
+    </div>
+
+  </div>
+  <footer class="footer container">
+    <h2 class='hidden'>Site Footer</h2>
+    <div class="footer-default">
+      <div class="row">
+        <div class="col-sm-6 col-md-6">
+          <div class="field field-name-field-tax-first-column-links">
+            <ul class="field-items"><li class="field-item"><a
+                href="../../../node/492"
+                class=""
+                >About this site</a
+              ></li><li class="field-item"><a
+                href="../../../node/524"
+                class=""
+                >Contact us</a
+              ></li><li class="field-item"><a
+                href="../../../node/488"
+                class=""
+                >Other Ministry of Health websites</a
+              ></li><li class="field-item"><a
+                href="../../../node/7497"
+                class=""
+                >Official Information Act requests</a
+              ></li><li class="field-item"><a
+                href="../../../about-ministry/information-releases"
+                class=""
+                >Information releases</a
+              ></li><li class="field-item"><a
+                href="https://consult.health.govt.nz/"
+                class=""
+                >Consultations</a
+              ></li></ul>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+          <div class="field field-name-field-tax-footer-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Where to go for help</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th scope="row">Emergencies</th>
+			<td><strong>Dial <a href="tel:111">111</a></strong> (for ambulance, fire or police)</td>
+		</tr>
+		<tr>
+			<th scope="row">Healthline</th>
+			<td><strong>Dial <a href="tel:0800611116">0800 611 116</a></strong></td>
+		</tr>
+		<tr>
+			<th scope="row">Poisons</th>
+			<td><strong>Dial <a href="tel:0800764766">0800 POISON</a> </strong>(<a href="tel:0800764766">0800 764 766</a>)</td>
+		</tr>
+		<tr>
+			<th scope="row">Mental health crisis</th>
+			<td><strong><a href="../../../your-health/services-and-support/health-care-services/mental-health-services/crisis-assessment-teams">Emergency contact numbers</a></strong></td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div>        </div>
+      </div>
+      <div class="row">
+        <div class="sub-footer">
+          <div class="column col-sm-12 col-md-3">
+            <a href="https://www.govt.nz/">
+              <img src="../../../sites/all/themes/mohpub_bootstrap/images/nzgovtlogo_white.png"
+                   width="152" height="16"
+                   alt="govt.nz - connecting you to New Zealand central &amp; local government services"
+                   title="govt.nz - connecting you to New Zealand central &amp; local government services" />
+            </a>
+          </div>
+          <div class="column col-sm-12 col-md-9">
+          <span class="bottom-menu-moh with-v-divider">&copy; Ministry of Health – Manatū Hauora</span><ul class="bottom-menu-list"><li class="bottom-menu-list-item with-v-divider"><a href="../../../sitemap"class="">Site map</a></li><li class="bottom-menu-list-item with-v-divider"><a href="../../../about-site/privacy-and-security"class="">Privacy & security</a></li><li class="bottom-menu-list-item with-v-divider"><a href="../../../about-site/copyright"class="">Copyright</a></li></ul>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-print">&copy; Ministry of Health – Manatū Hauora</div>
+  </footer>
+  <a class="scrollToTop">Back to top <i class="fas fa-arrow-up"></i></a>
+</div>
+  <script src="../../../sites/default/files/js/js_akZOsKtodu3PdnQzY3_ElOfujkLxJcowmaWgHTBBLOE.js"></script>
+</body>
+</html>
