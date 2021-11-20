@@ -1,0 +1,509 @@
+﻿class,category,indicator_name,series_name,sub_series_name,parameter,value,units,date_last_updated
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-01,    225,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-02,    254,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-03,    280,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-04,    305,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-05,    332,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-06,    398,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-07,    442,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-08,    470,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-09,    549,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-10,    637,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-11,    720,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-12,    817,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-13,    937,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-14,   1065,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-15,   1153,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-16,   1557,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-17,   2478,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-18,   3488,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-19,   4872,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-20,   6606,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-21,   7887,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-22,   8760,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-23,  10658,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-24,  12850,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-25,  14802,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-26,  16890,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-27,  18743,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-28,  20109,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-29,  21091,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-30,  23050,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-03-31,  25086,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-01,  28748,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-02,  32805,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-03,  37166,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-04,  39769,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-05,  42310,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-06,  45688,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-07,  50522,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-08,  54227,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-09,  58015,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-10,  59731,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-11,  61525,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-12,  62875,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-13,  64357,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-14,  67480,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-15,  71501,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-16,  75897,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-17,  80747,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-18,  83953,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-19,  86259,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-20,  91991,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-21,  99115,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-22, 105358,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-23, 111998,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-24, 118541,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-25, 121282,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-26, 123380,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-27, 125414,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-28, 130516,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-29, 135867,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-04-30, 141341,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-01, 146994,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-02, 149797,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-03, 151457,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-04, 156694,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-05, 163558,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-06, 170840,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-07, 178654,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-08, 187089,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-09, 190524,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-10, 192269,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-11, 197696,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-12, 205191,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-13, 212048,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-14, 218630,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-15, 224410,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-16, 226789,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-17, 228341,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-18, 233738,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-19, 239439,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-20, 245079,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-21, 250736,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-22, 255463,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-23, 256935,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-24, 258054,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-25, 262482,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-26, 266499,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-27, 269981,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-28, 273033,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-29, 275446,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-30, 276215,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-05-31, 276392,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-01, 277063,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-02, 278212,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-03, 280932,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-04, 283649,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-05, 286642,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-06, 288718,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-07, 289512,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-08, 290502,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-09, 293143,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-10, 296570,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-11, 299485,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-12, 302419,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-13, 304903,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-14, 305663,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-15, 307123,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-16, 310690,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-17, 315522,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-18, 321832,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-19, 329536,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-20, 335594,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-21, 339045,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-22, 343196,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-23, 352164,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-24, 362523,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-25, 372529,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-26, 381620,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-27, 387085,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-28, 389894,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-29, 391709,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-06-30, 396442,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-01, 399846,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-02, 403574,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-03, 405665,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-04, 406252,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-05, 408863,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-06, 410713,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-07, 412901,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-08, 415904,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-09, 418569,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-10, 420671,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-11, 422392,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-12, 423483,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-13, 425017,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-14, 427808,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-15, 430635,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-16, 432986,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-17, 435561,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-18, 436997,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-19, 437701,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-20, 438656,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-21, 440852,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-22, 443218,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-23, 445964,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-24, 448358,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-25, 450040,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-26, 450685,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-27, 452291,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-28, 454692,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-29, 457106,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-30, 459502,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-07-31, 462579,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-01, 464988,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-02, 466677,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-03, 468379,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-04, 472493,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-05, 477382,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-06, 481452,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-07, 484817,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-08, 488907,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-09, 491245,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-10, 492932,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-11, 497096,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-12, 503074,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-13, 518727,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-14, 542105,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-15, 566096,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-16, 591101,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-17, 609537,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-18, 632236,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-19, 649834,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-20, 664496,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-21, 676505,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-22, 683776,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-23, 688253,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-24, 692447,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-25, 700945,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-26, 709731,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-27, 720141,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-28, 730319,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-29, 740819,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-30, 747385,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-08-31, 756324,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-01, 767473,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-02, 777996,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-03, 787585,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-04, 796445,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-05, 804220,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-06, 808219,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-07, 812914,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-08, 820930,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-09, 828637,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-10, 837188,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-11, 846103,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-12, 853588,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-13, 857450,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-14, 861381,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-15, 869979,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-16, 878324,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-17, 885641,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-18, 893811,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-19, 899348,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-20, 902715,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-21, 906222,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-22, 913064,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-23, 919144,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-24, 925579,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-25, 931454,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-26, 936531,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-27, 940143,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-28, 943387,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-29, 948382,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-09-30, 953989,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-01, 958738,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-02, 965097,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-03, 969107,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-04, 971686,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-05, 974724,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-06, 980393,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-07, 986545,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-08, 992142,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-09, 996956,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-10,1000765,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-11,1002791,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-12,1005808,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-13,1011657,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-14,1016853,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-15,1021931,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-16,1026725,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-17,1030115,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-18,1031888,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-19,1034603,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-20,1040911,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-21,1047994,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-22,1054047,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-23,1061747,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-24,1067143,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-25,1070181,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-26,1072492,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-27,1075827,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-28,1083230,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-29,1090702,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-30,1096666,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-10-31,1101067,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-01,1104113,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-02,1106568,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-03,1113739,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-04,1120130,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-05,1126986,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-06,1132820,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-07,1136936,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-08,1139978,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-09,1142938,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-10,1148933,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-11,1155514,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-12,1162740,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-13,1169062,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-14,1179587,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-15,1184885,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-16,1191034,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-17,1199426,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-18,1208091,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-19,1217383,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-20,1224397,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-21,1230901,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-22,1234175,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-23,1237736,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-24,1243518,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-25,1252601,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-26,1260055,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-27,1266944,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-28,1272586,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-29,1275525,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-11-30,1278690,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-01,1285766,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-02,1291609,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-03,1298455,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-04,1304502,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-05,1309992,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-06,1312307,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-07,1315201,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-08,1321598,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-11,1332470,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-13,1341978,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-14,1344192,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-15,1352462,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-18,1363124,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-20,1371889,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-21,1374050,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-23,1381545,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-27,1396752,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-29,1398932,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2020-12-31,1405854,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-03,1414422,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-05,1419361,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-07,1426787,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-10,1438446,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-11,1441163,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-13,1448199,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-15,1457076,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-17,1463890,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-18,1465758,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-20,1472326,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-22,1480691,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-24,1489913,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-26,1493495,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-27,1504309,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-01-28,1512616,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-01,1535292,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-02,1537594,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-03,1541701,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-04,1546832,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-05,1551707,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-08,1562891,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-09,1565107,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-10,1567952,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-11,1573692,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-12,1578782,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-14,1586816,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-15,1589949,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-16,1595770,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-17,1613211,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-18,1629853,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-19,1640686,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-21,1658429,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-22,1662321,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-23,1666446,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-24,1674282,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-25,1683551,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-26,1693679,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-02-28,1707380,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-01,1712029,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-02,1720909,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-04,1751605,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-05,1763008,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-07,1779213,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-08,1783178,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-09,1786705,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-10,1795324,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-11,1801771,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-12,1808406,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-14,1818986,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-15,1821426,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-16,1824252,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-17,1830299,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-19,1840473,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-21,1849867,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-22,1852557,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-23,1855315,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-24,1861752,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-25,1867966,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-26,1875086,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-28,1884329,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-29,1887079,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-30,1890809,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-03-31,1896964,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-01,1902915,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-04,1913487,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-06,1917574,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-07,1920966,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-08,1927613,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-09,1927613,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-11,1942141,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-12,1944883,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-13,1948223,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-14,1953823,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-15,1959282,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-16,1963982,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-18,1972640,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-19,1974755,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-20,1978011,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-21,1982784,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-22,1987958,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-23,1992707,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-25,2000842,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-27,2004818,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-28,2008199,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-29,2013539,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-04-30,2018845,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-02,2026948,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-03,2029196,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-04,2031925,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-05,2037349,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-07,2046919,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-09,2054651,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-10,2056987,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-11,2059727,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-12,2064910,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-13,2069812,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-14,2073522,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-16,2080353,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-17,2082570,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-18,2085298,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-19,2090622,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-20,2095421,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-21,2100168,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-23,2106971,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-24,2108952,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-25,2111902,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-26,2116680,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-27,2121676,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-28,2126807,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-30,2137414,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-05-31,2140339,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-01,2143395,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-02,2149014,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-03,2154931,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-04,2159702,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-06,2167929,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-08,2171925,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-09,2175651,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-10,2181269,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-11,2186193,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-13,2195282,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-14,2197446,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-15,2200141,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-16,2205616,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-17,2211115,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-18,2216363,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-20,2224208,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-21,2226734,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-22,2229592,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-23,2235523,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-24,2242522,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-25,2253275,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-27,2267994,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-28,2271525,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-29,2278772,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-06-30,2288871,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-01,2296650,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-02,2303782,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-04,2314030,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-05,2317171,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-06,2322228,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-07,2329485,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-08,2336504,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-09,2339666,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-11,2351005,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-12,2353967,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-14,2372793,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-15,2380123,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-16,2386215,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-18,2397849,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-19,2401725,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-20,2405241,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-21,2412361,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-22,2419915,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-23,2426356,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-25,2438807,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-26,2441651,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-27,2445710,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-28,2454303,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-29,2465811,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-07-30,2473000,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-01,2484284,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-02,2487568,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-03,2491831,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-04,2499726,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-05,2507176,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-06,2513358,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-08,2523643,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-09,2525687,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-10,2529030,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-11,2535316,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-12,2542575,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-13,2548634,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-15,2558680,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-16,2561806,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-17,2564395,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-18,2571452,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-20,2612235,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-22,2692087,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-23,2727853,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-24,2763229,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-25,2812976,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-26,2854717,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-27,2891738,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-29,2951303,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-30,2967673,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-08-31,2984428,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-01,3006586,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-02,3024268,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-03,3037064,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-05,3057343,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-06,3062093,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-07,3069348,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-08,3082577,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-09,3100261,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-10,3114087,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-12,3140288,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-13,3148945,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-14,3158224,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-15,3173328,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-16,3190907,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-17,3206325,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-19,3232551,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-20,3240635,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-21,3248982,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-22,3267861,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-23,3287055,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-24,3301910,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-26,3329629,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-27,3336535,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-28,3346490,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-29,3361927,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-09-30,3378464,Number,01-10-21
+Health,COVID-19 testing,Total tests (cumulative),undefined_name,Total tests (cumulative),2021-10-01,3397503,Number,01-10-21
