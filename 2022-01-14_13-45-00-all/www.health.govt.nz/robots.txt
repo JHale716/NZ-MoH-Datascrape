@@ -1,0 +1,12 @@
+#
+# Custom robots.txt
+#
+
+User-agent: *
+Crawl-delay: 10
+
+Disallow: /search/
+Disallow: /?q=search/
+
+Disallow: /publications/
+Disallow: /publications?*
