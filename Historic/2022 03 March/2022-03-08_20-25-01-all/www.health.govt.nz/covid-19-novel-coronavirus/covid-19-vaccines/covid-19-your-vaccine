@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="" class="no-js">
+<head>
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="format-detection" content="telephone=no" />
+  <link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="../../sites/all/themes/mohpub_bootstrap/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="description" content="Information for specific situations, including feeling unwell, waiting on a COVID-19 test result, underlying health conditions, pregnancy and other circumstances." />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="covid-19-your-vaccine" />
+<link rel="shortlink" href="https://www.health.govt.nz/node/12448" />
+<meta property="og:site_name" content="Ministry of Health NZ" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-your-vaccine" />
+<meta property="og:title" content="COVID-19: Before your vaccine" />
+<meta property="og:description" content="Information for specific situations, including feeling unwell, waiting on a COVID-19 test result, underlying health conditions, pregnancy and other circumstances." />
+  <title>COVID-19: Before your vaccine | Ministry of Health NZ</title>
+  <link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_jqUBpWfMaxMiP7LismdZVlyVv8azUJSE2yaH58nj0cE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_Rb1wqFBC8VXCJC-BuNY53cvjjlj6UADGvqzo_f-1yN0.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_38_K1lHKg-98m4KKRfv57JBK0gvlKscexGt9MKoi0DE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../../sites/default/files/css/css_r7NPyvpdYfAyZmk9zkK8OaFKEFj6er5ZJnam2H644DM.css" media="print" />
+  <link rel="alternate stylesheet" type="text/css" href="../../sites/all/themes/mohpub_bootstrap/css/high-contrast.css" media="screen" title="High Contrast" />
+  <script src="../../sites/default/files/js/js_XexEZhbTmj1BHeajKr2rPfyR8Y68f4rm0Nv3Vj5_dSI.js"></script>
+<script src="../../sites/default/files/js/js_fNgZ4Okisfr70Q0yvAYsATgB0o_jD3-srhQQ-VHmlXE.js"></script>
+<script src="../../sites/default/files/js/js_YAdPZfg12M1m7ROp3_gVJPS5sArqL0kYQgNRPoicvHE.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-3573389-24", {"cookieDomain":".www.health.govt.nz","siteSpeedSampleRate":15});ga("send", "pageview");</script>
+<script src="../../sites/default/files/js/js_wauJ-VUoyA1MrZ6ZPFtGhNR7qiKnBdBSKEwQJjdEXIk.js"></script>
+<script src="../../sites/default/files/js/js_4VW9edmu3V8VjGJxFfXGAwkXeW2cJIa5h-6y7SgwVrk.js"></script>
+<script>    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:930919,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"mohpub_bootstrap","theme_token":"BTOffInnKVL5t5I0tMZ6JON08iBY0kUA5STTbw1aSvc","js":{"sites\/all\/modules\/custom\/table_d3chart\/js\/table_d3chart.js":1,"sites\/all\/modules\/custom\/moh_d3\/moh_d3.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/js\/ckeditor-accordion.js":1,"sites\/all\/modules\/contrib\/extlink\/extlink.js":1,"modules\/field\/modules\/text\/text.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"sites\/all\/libraries\/c3\/c3.js":1,"sites\/all\/libraries\/d3\/d3.js":1,"sites\/all\/modules\/contrib\/d3\/js\/d3.js":1,"sites\/all\/libraries\/d3.helpers\/d3.helpers.js":1,"sites\/all\/libraries\/d3.c3\/d3-c3.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/assets\/ios-fix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/affix.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/alert.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/button.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/carousel.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/collapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/dropdown.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/modal.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tooltip.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/popover.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/scrollspy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/tab.js":1,"sites\/all\/themes\/mohpub_bootstrap\/bootstrap\/js\/transition.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.cookie.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.moh.announcement.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/svgeezy.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/fitvids.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-tabcollapse.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.scrollTo.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/script.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/jquery.google_analytics.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/bootstrap-accessibility.min.js":1,"sites\/all\/themes\/mohpub_bootstrap\/js\/style-switcher.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/contrib\/ckeditor_accordion\/css\/ckeditor-accordion.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/extlink\/extlink.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/libraries\/c3\/c3.css":1,"sites\/all\/libraries\/d3.c3\/d3-c3.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/fontawesome.min.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/solid.min.css":1,"sites\/all\/themes\/mohpub_bootstrap\/fontawesome\/css\/brands.min.css":1,"sites\/all\/modules\/features\/site_profile\/css\/fix-rubik-multiselect-height.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/style.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/responsive-tables.css":1,"sites\/all\/themes\/mohpub_bootstrap\/css\/print.css":1}},"field_group":{"div":"full"},"ckeditor_accordion":{"collapseAll":1},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extIconPlacement":"append","extSubdomains":0,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto","mailtoLabel":"(link sends e-mail)"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip|docx|xlsx|pptx|pptm|ppsx|ppsm|epub"},"mohD3":{"C3Types":["line","spline","step","area","area-spline","area-step","bar","scatter","pie","donut","gauge"],"graphRender":"line","graphLegend":true,"graphDefaultColors":"#2b8cbe, #abdda4, #7f7f7f, #92cddc, #dc8b0c","graphDefaultGroupedTooltip":0,"graphDefaultGridX":0,"graphDefaultGridY":0,"graphDefaultLegendPosition":"top-right","graphDefaultTooltip":1,"graphDefaultDataLabel":0,"graphLegendStep":"5","graphInteraction":true,"graphTypes":"","graphXaxisShow":true,"graphXaxisLabel":"","graphYaxisLabel":"","graphXaxisType":"category","graphXaxisCentered":false,"graphXaxisRotation":"","graphXaxisHeight":"","graphYaxisShow":true,"graphYaxisMax":"","graphYaxisMin":"","graphYaxisInverted":false,"graphYaxisCenter":"","graphYaxisPrefix":"","graphYaxisSuffix":"","graphYaxisPosition":"","graphY2axisShow":false,"graphY2axisSource":"","graphY2axisMax":"","graphY2axisMin":"","graphGroups":"","graphRotated":false,"graphIgnoreEmpty":false,"graphLineDot":true,"graphBarRatio":"0.9","graphDot":true,"graphDotR":"2.5","graphFocus":false},"tableD3":{"show":"View table data source","hide":"Hide table data source"},"urlIsAjaxTrusted":{"\/covid-19-novel-coronavirus\/covid-19-vaccines\/covid-19-your-vaccine":true},"bootstrap":{"anchorsFix":1,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/mohpub_bootstrap/js/assets/html5shiv.js"></script>
+    <script src="/sites/all/themes/mohpub_bootstrap/js/assets/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-12448 node-type-page node-has-intro" >
+<!--googleoff: all-->
+  <div id="skip-link">
+    <a href="covid-19-your-vaccine#skip-content" id="skipper" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+  <header id="navbar" role="banner" class="navbar container navbar-default">
+          <ul class="menu nav navbar-nav secondary"><li class="first leaf jobs depth-1"><a href="https://careers.health.govt.nz" title="">Jobs</a></li>
+<li class="leaf news depth-1"><a href="../../news-media" data-is-top-level="0" title="">News</a></li>
+<li class="leaf about-us depth-1"><a href="../../about-ministry" title="" data-is-top-level="0">About us</a></li>
+<li class="leaf facebook depth-1"><a href="https://www.facebook.com/minhealthnz/">Facebook</a></li>
+<li class="leaf twitter depth-1"><a href="https://twitter.com/minhealthnz" data-is-top-level="0" title="">Twitter</a></li>
+<li class="last leaf youtube depth-1"><a href="https://www.youtube.com/user/minhealthnz" data-is-top-level="0" title="">Youtube</a></li>
+</ul>        <div class="container">
+      <div class="navbar-header">
+                <a class="logo navbar-btn pull-left" href="../../index.html" title="Home">
+          <img src="../../sites/all/themes/mohpub_bootstrap/images/mohlogo.svg" alt="Ministry of Health" />
+        </a>
+                  <div class="region region-header-top">
+    <section id="block-apachesolr-panels-search-form" class="block block-apachesolr-panels clearfix">
+
+      
+  <form action="covid-19-your-vaccine" method="post" id="apachesolr-panels-search-block" accept-charset="UTF-8"><div><div class="form-item form-item-apachesolr-panels-search-form form-type-textfield form-group"> <label class="control-label" for="edit-apachesolr-panels-search-form">Search</label>
+<input title="Enter the terms you wish to search for." class="form-control form-text" type="text" id="edit-apachesolr-panels-search-form" name="apachesolr_panels_search_form" value="" size="15" maxlength="128" /></div><input type="hidden" name="form_build_id" value="form-aIu3iUNzZDBGRNVZtJDtTZc41yEisyhCqhSnLN57As8" />
+<input type="hidden" name="form_id" value="apachesolr_panels_search_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Search" class="btn btn-primary form-submit">Search</button>
+</div></div></form>
+</section>
+  </div>
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <button aria-expanded="false" aria-controls="megamenu" type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="menu-text">Menu</span><span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+
+        </button>
+      </div>
+
+              <div class="navbar-collapse collapse">
+          <nav id="megamenu" role="navigation">
+                          <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="menu nav navbar-nav yamm navbar"><li class="first dropdown"><a href="../../covid-19-novel-coronavirus" class="dropdown-toggle active-trail" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-10008">COVID-19 <b class="caret"></b></a>
+    <div id="megamenu-dropdown-10008" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../covid-19-health-advice-public" class="menu-header">Health advice</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../covid-19-health-advice-public/about-covid-19">About COVID-19 - symptoms &amp; spread</a></li>
+                                  <li><a href="../covid-19-health-advice-public/advice-people-covid-19">Advice for people with COVID-19</a></li>
+                                  <li><a href="../covid-19-health-advice-public/assessment-and-testing-covid-19">Assessment and testing </a></li>
+                                  <li><a href="../covid-19-health-advice-public/covid-19-use-face-masks-community">Face masks</a></li>
+                                  <li><a href="../covid-19-health-advice-public/covid-19-information-household-and-close-contacts">Household &amp; Close Contacts</a></li>
+                                  <li><a href="../covid-19-health-advice-public/protecting-yourself-and-others-covid-19">Protecting yourself and others</a></li>
+                                  <li><a href="../covid-19-health-advice-public/assessment-and-testing-covid-19/rapid-antigen-testing-rat">Rapid antigen testing</a></li>
+                                  <li><a href="../covid-19-health-advice-public/covid-19-staying-home">Staying at home</a></li>
+                                  <li><a href="../covid-19-health-advice-public" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../covid-19-vaccines" class="menu-header">COVID-19 vaccines </a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="covid-19-vaccine-boosters">Boosters</a></li>
+                                  <li><a href="covid-19-vaccine-effectiveness-and-protection">How effective is the vaccine</a></li>
+                                  <li><a href="covid-19-how-pfizer-vaccine-works">How the vaccine works</a></li>
+                                  <li><a href="covid-19-vaccine-information-health-professionals">Information for health professionals</a></li>
+                                  <li><a href="my-covid-record-proof-vaccination-status">Proof of vaccination</a></li>
+                                  <li><a href="covid-19-pfizer-vaccine-side-effects-and-reactions">Side effects and reactions</a></li>
+                                  <li><a href="covid-19-your-vaccine" class="active">Vaccine health advice</a></li>
+                                  <li><a href="../covid-19-vaccines" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../covid-19-information-health-professionals" class="menu-header">Health professionals</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../covid-19-information-health-professionals/covid-19-advice-all-health-professionals">Advice for all health professionals</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/covid-19-aged-care-disability-and-hospice-care-providers/covid-19-aged-care-providers">Aged care providers</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/covid-19-advice-community-allied-health-scientific-and-technical-providers">Allied health providers</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/caring-people-covid-19-community">Care in the community</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/case-definition-and-clinical-testing-guidelines-covid-19">Case definition and testing guidelines</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/guidance-critical-health-services-during-omicron-outbreak">During an Omicron outbreak</a></li>
+                                  <li><a href="../covid-19-information-health-professionals/covid-19-primary-care">Primary care</a></li>
+                                  <li><a href="../covid-19-information-health-professionals" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../node/10870" class="menu-header">COVID-19 data &amp; statistics</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../covid-19-data-and-statistics/covid-19-case-demographics">Case demographics</a></li>
+                                  <li><a href="../covid-19-data-and-statistics/covid-19-current-cases">Current cases</a></li>
+                                  <li><a href="../covid-19-data-and-statistics/covid-19-nz-covid-tracer-app-data">NZ COVID Tracer app data</a></li>
+                                  <li><a href="../covid-19-data-and-statistics/covid-19-source-cases">Sources of cases</a></li>
+                                  <li><a href="../covid-19-data-and-statistics/testing-covid-19">Testing for COVID-19</a></li>
+                                  <li><a href="../covid-19-data-and-statistics/covid-19-vaccine-data">Vaccine data</a></li>
+                                  <li><a href="../../node/10870" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../covid-19-information-specific-audiences">Information for specific audiences</a> <a href="../covid-19-response-planning">Response planning</a> <a href="../covid-19-resources-and-tools">Resources &amp; tools</a> <a href="../covid-19-news-and-media-updates">News &amp; media updates</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="../../your-health" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-780">Your health <b class="caret"></b></a>
+    <div id="megamenu-dropdown-780" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../your-health/conditions-and-treatments" class="menu-header">Conditions &amp; treatments</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/mental-health/depression">Depression</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/diabetes">Diabetes</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/influenza">Influenza</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles">Measles</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/meningococcal-disease-including-meningitis">Meningococcal disease</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/mumps">Mumps</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/respiratory-syncytial-virus-rsv">RSV</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/sore-throat">Sore throat</a></li>
+                                  <li><a href="../../your-health/conditions-and-treatments" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../your-health/healthy-living" class="menu-header">Healthy living</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../your-health/healthy-living/drinking-water">Drinking-water</a></li>
+                                  <li><a href="../../your-health/healthy-living/food-activity-and-sleep/green-prescriptions">Green Prescriptions</a></li>
+                                  <li><a href="../../your-health/healthy-living/food-activity-and-sleep/healthy-eating">Healthy eating</a></li>
+                                  <li><a href="../../your-health/healthy-living/immunisation">Immunisation</a></li>
+                                  <li><a href="../../your-health/healthy-living/food-activity-and-sleep/physical-activity">Physical activity</a></li>
+                                  <li><a href="../../your-health/healthy-living/addictions/quitting-smoking">Smoking</a></li>
+                                  <li><a href="../../your-health/healthy-living/teeth-and-gums">Teeth and gums</a></li>
+                                  <li><a href="../../your-health/healthy-living" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../your-health/pregnancy-and-kids" class="menu-header">Pregnancy and kids</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../your-health/pregnancy-and-kids/birth-and-afterwards">Birth and afterwards</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids/first-year/helpful-advice-during-first-year/breastfeeding-perfect-you-and-your-baby">Breastfeeding</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids/pregnancy">Pregnancy</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids/services-and-support-during-pregnancy">Services and support during pregnancy</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids/services-and-support-you-and-your-child">Services and support for you and your child</a></li>
+                                  <li><a href="https://www.health.govt.nz/your-health/pregnancy-and-kids/first-year">The first year</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids/under-fives">Under fives</a></li>
+                                  <li><a href="../../your-health/pregnancy-and-kids" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../your-health/services-and-support" class="menu-header">Services &amp; support</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="https://www.health.govt.nz/your-health/services-and-support/health-care-services/help-alcohol-and-drug-problems">Alcohol and drugs</a></li>
+                                  <li><a href="../../your-health/services-and-support/disability-services">Disability services</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/earthquake-support-line">Earthquake Support Line</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/healthline">Healthline</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/mental-health-services">Mental health services</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/maori-health-provider-directory">Māori health providers</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/services-older-people/rest-home-certification-and-audits">Rest home certification</a></li>
+                                  <li><a href="../../your-health/services-and-support/health-care-services/hospitals-and-specialist-services/travel-assistance">Travel assistance</a></li>
+                                  <li><a href="../../your-health/services-and-support" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../your-health/full-a-z">View the full A-Z</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="../../new-zealand-health-system" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-6076">NZ health system <b class="caret"></b></a>
+    <div id="megamenu-dropdown-6076" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people" class="menu-header">Key organisations</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people/crown-entities-and-statutory-boards">Crown entities &amp; agencies</a></li>
+                                  <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people/district-health-boards">District health boards</a></li>
+                                  <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people/non-governmental-organisations">Non-governmental organisations</a></li>
+                                  <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people/primary-health-organisations">Primary health organisations</a></li>
+                                  <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people/public-health-units">Public health units</a></li>
+                                  <li><a href="../../new-zealand-health-system/key-health-sector-organisations-and-people" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../new-zealand-health-system/health-system-indicators-framework" class="menu-header">Health System Indicators framework</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../new-zealand-health-system/health-system-indicators-framework" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services" class="menu-header">Eligibility for public health services</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services/guide-eligibility-publicly-funded-health-services">Guide to eligibility</a></li>
+                                  <li><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services/eligibility-questions-and-answers-consumers">Q&amp;A for consumers</a></li>
+                                  <li><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services/eligibility-questions-and-answers-service-providers">Q&amp;A for service providers</a></li>
+                                  <li><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services/reciprocal-health-agreements">Reciprocal health agreements</a></li>
+                                  <li><a href="../../new-zealand-health-system/eligibility-publicly-funded-health-services" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements" class="menu-header">Claims &amp; provider payments</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements/carer-support-claims">Carer Support</a></li>
+                                  <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements/high-use-health-card-payments">High Use Health Card payments</a></li>
+                                  <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements/between-travel-settlement">In-Between Travel Settlement</a></li>
+                                  <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements/maternity-claim-forms">Maternity claim forms</a></li>
+                                  <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements/national-travel-assistance">National travel assistance claims</a></li>
+                                  <li><a href="../../new-zealand-health-system/claims-provider-payments-and-entitlements" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../new-zealand-health-system/overview-health-system">Overview of the health system</a>  <a href="../../new-zealand-health-system/my-dhb">My DHB</a> <a href="../../new-zealand-health-system/system-level-measures-framework">System level measures</a>  <a href="../../publication/new-zealand-health-strategy-2016">NZ Health Strategy</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="https://www.health.govt.nz/our-work" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-776">Our work <b class="caret"></b></a>
+  <div id="megamenu-dropdown-776" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../our-work/hospitals-and-specialist-care/acute-care" class="menu-header">Acute care</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/diseases-and-conditions/antimicrobial-resistance" class="menu-header">Antimicrobial resistance</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/populations/asian-and-migrant-health" class="menu-header">Asian and migrant health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/assisted-dying-service" class="menu-header">Assisted Dying Service</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/border-health" class="menu-header">Border health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/breastfeeding" class="menu-header">Breastfeeding</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/diseases-and-conditions/cancer" class="menu-header">Cancer</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/regulation-health-and-disability-system/certification-health-care-services" class="menu-header">Certification of health care services</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/child-health" class="menu-header">Child health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/diseases-and-conditions/diabetes" class="menu-header">Diabetes</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/digital-health" class="menu-header">Digital health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/disability-services" class="menu-header">Disability services</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="https://www.health.govt.nz/our-work/diseases-and-conditions" class="menu-header">Diseases and conditions</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/hospitals-and-specialist-care/emergency-departments" class="menu-header">Emergency departments</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/emergency-management" class="menu-header">Emergency management</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/environmental-health" class="menu-header">Environmental health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/family-violence" class="menu-header">Family violence</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/fluoride-and-oral-health" class="menu-header">Fluoride and oral health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/health-identity" class="menu-header">Health identity</a>                              </li>
+                                                                    <li>
+                <a href="https://www.health.govt.nz/our-work/digital-health/digital-health-sector-architecture-standards-and-governance/health-information-standards" class="menu-header">Health information standards</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/health-infrastructure-unit-hiu" class="menu-header">Health Infrastructure Unit</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/health-older-people" class="menu-header">Health of older people</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/health-workforce" class="menu-header">Health workforce</a>                              </li>
+                                                                    <li>
+                <a href="https://www.health.govt.nz/our-work/hospitals-and-specialist-care" class="menu-header">Hospitals and specialist care</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../our-work/preventative-health-wellness/immunisation" class="menu-header">Immunisation</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/infection-prevention-and-control" class="menu-header">Infection prevention and control</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/ionising-radiation-safety" class="menu-header">Ionising radiation safety</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/populations/maori-health" class="menu-header">Māori health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/maternity-services" class="menu-header">Maternity</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/regulation-health-and-disability-system/medicinal-cannabis-agency" class="menu-header">Medicinal cannabis</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/regulation-health-and-disability-system/medicines-control" class="menu-header">Medicines control</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/mental-health-and-addiction" class="menu-header">Mental health and addiction</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/nursing" class="menu-header">Nursing</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/nutrition" class="menu-header">Nutrition</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/oral-health" class="menu-header">Oral health</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/hospitals-and-specialist-care/organ-donation-and-transplantation" class="menu-header">Organ donation and transplantation</a>                              </li>
+                                                                </ul>
+                            <ul class="col list-unstyled no-menu-header">
+                                                                                <li>
+                <a href="../../our-work/populations/pacific-health" class="menu-header">Pacific health</a>                              </li>
+                                                                    <li>
+                <a href="../../new-zealand-health-system/pay-equity-settlements" class="menu-header">Pay equity</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/physical-activity" class="menu-header">Physical activity</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/hospitals-and-specialist-care/planned-care-services" class="menu-header">Planned Care services</a>                              </li>
+                                                                    <li>
+                <a href="https://www.health.govt.nz/our-work/preventative-health-wellness" class="menu-header">Preventative health/wellness</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/primary-health-care" class="menu-header">Primary health care</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/public-health-workforce-development" class="menu-header">Public health workforce</a>                              </li>
+                                                                    <li>
+                <a href="https://www.health.govt.nz/our-work/regulation-health-and-disability-system" class="menu-header">Regulation</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/preventative-health-wellness/tobacco-control" class="menu-header">Tobacco control</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/regulation-health-and-disability-system/regulation-vaping-and-smokeless-tobacco-products" class="menu-header">Vaping &amp; smokeless tobacco</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/who-code-nz" class="menu-header">WHO Code in NZ</a>                              </li>
+                                                                    <li>
+                <a href="../../our-work/life-stages/youth-health" class="menu-header">Youth health</a>                              </li>
+                      </ul>
+              </div>
+    </div>
+    <div class="feature-links">
+      <a href="https://www.health.govt.nz/our-work">View the full A-Z</a>    </div>
+  </div>
+</li>
+<li class="dropdown"><a href="../../nz-health-statistics" class="dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="megamenu-dropdown-778">Health statistics <b class="caret"></b></a>
+    <div id="megamenu-dropdown-778" class="dropdown-menu">
+    <div class="yamm-content">
+      <div class="row">
+                            <div class="col">
+            <h3><a href="../../nz-health-statistics/health-statistics-and-data-sets" class="menu-header">Statistics by topic</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/cancer-data-and-stats">Cancer</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/diabetes-data-and-stats">Diabetes</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/mental-health-data-and-stats">Mental health</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/maori-health-data-and-stats">Māori health</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/obesity-statistics">Obesity</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/suicide-data-and-stats">Suicide</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets/tobacco-data-and-stats">Tobacco</a></li>
+                                  <li><a href="../../nz-health-statistics/health-statistics-and-data-sets" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../nz-health-statistics/national-collections-and-surveys" class="menu-header">About our surveys &amp; data collections</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="https://www.health.govt.nz/nz-health-statistics/national-collections-and-surveys/surveys/past-surveys/alcohol-and-drug-use-survey">Alcohol &amp; Drug Use Survey</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys/national-collections-annual-maintenance-project">NCAMP</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys/collections/new-zealand-cancer-registry-nzcr">NZ Cancer Registry</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys/surveys/new-zealand-health-survey">NZ Health Survey</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys/surveys/past-surveys/nutrition-survey">Nutrition Survey</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys/collections/primhd-mental-health-data">PRIMHD</a></li>
+                                  <li><a href="../../nz-health-statistics/national-collections-and-surveys" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../nz-health-statistics/classification-and-terminology" class="menu-header">Classification &amp; terminology</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="https://www.health.govt.nz/nz-health-statistics/classification-and-terminology/using-icd-10-am-achi-acs/coding-queries/coding-query-database">Coding query database</a></li>
+                                  <li><a href="https://www.health.govt.nz/nz-health-statistics/classification-and-terminology/using-icd-10-am-achi-acs/courses-clinical-coding">Courses on clinical coding</a></li>
+                                  <li><a href="../../nz-health-statistics/classification-and-terminology/new-zealand-snomed-ct-national-release-centre">SNOMED CT</a></li>
+                                  <li><a href="../../nz-health-statistics/classification-and-terminology/using-icd-10-am-achi-acs">Using ICD-10-AM/ACHI/ACS</a></li>
+                                  <li><a href="../../nz-health-statistics/classification-and-terminology" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                                      <div class="col">
+            <h3><a href="../../nz-health-statistics/data-references" class="menu-header">Data references</a></h3>
+            <ul class="list-unstyled">
+                                                <li><a href="../../nz-health-statistics/data-references/code-tables">Code tables</a></li>
+                                  <li><a href="../../nz-health-statistics/data-references/data-dictionaries">Data dictionaries</a></li>
+                                  <li><a href="../../nz-health-statistics/data-references/diagnosis-related-groups">Diagnosis-related groups</a></li>
+                                  <li><a href="https://www.health.govt.nz/nz-health-statistics/data-references/code-tables/common-code-tables/domicile-code-table">Domicile code table</a></li>
+                                  <li><a href="../../nz-health-statistics/data-references/mapping-tools">ICD mapping tools</a></li>
+                                  <li><a href="../../nz-health-statistics/data-references/weighted-inlier-equivalent-separations">Weighted Inlier Equivalent Separations</a></li>
+                                  <li><a href="../../nz-health-statistics/data-references" class="view-more"><span>See all</span></a></li>
+                                          </ul>
+          </div>
+                        </div>
+    </div>
+    <div class="feature-links">
+      <h3 class="sr-only">Other related resources</h3>
+      <a href="../../nz-health-statistics/health-statistics-and-data-sets/tier-1-health-statistics-release-calendar">Release calendar for our Tier 1 statistics</a> <a href="../../nz-health-statistics/about-data-collection">Data and survey enquiries</a>    </div>
+  </div>
+</li>
+<li class=""><a href="../../publications" aria-haspopup="false">Publications</a></li>
+<li class="visible-xs"><a href="../../contactus" aria-haspopup="false">Contact us</a></li>
+</ul>
+                                  </nav>
+        </div>
+          </div>
+  </header>
+
+  <div class="main-container container">
+    <!-- announcement -->
+        <!-- /announcement -->
+
+    <header role="banner" id="page-header">
+      
+          </header> <!-- /#page-header -->
+
+    <div class="row">
+      
+      <section class="col-sm-12">
+                        <a id="main-content"></a>
+                                                                            <div class="breadcrumbs">
+            <ul><li><a href="../../index.html">Home</a></li><li><a href="../../covid-19-novel-coronavirus" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" data-is-top-level="1" title="">COVID-19</a></li><li><a href="../covid-19-vaccines" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished" data-is-top-level="1" title="">COVID-19 vaccines </a></li><li><span class="current-breadcrumb">Before your vaccine</span></li></ul>          </div>
+        
+        
+        
+          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div class="bootstrap-threecol-stacked" >
+  
+      <div class="row"> <!-- @TODO: Add extra classes -->
+      <div class='panel-panel left col-xs-12 col-md-3 col-lg-3'><div class="panel-pane pane-block pane-menu-block-1 odd pane-top-link" >
+  
+        <span class="top-link"><a href="../covid-19-vaccines" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished active-trail" data-is-top-level="1">COVID-19 vaccines </a></span>
+    
+  
+  <div class="pane-content">
+        <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-10008 menu-level-2">
+  <ul class="menu nav"><li class="first leaf menu-mlid-10950 boosters depth-3 same-level-as-node"><a href="covid-19-vaccine-boosters" class="menu-node-unpublished menu-node-unpublished">Boosters</a></li>
+<li class="collapsed menu-mlid-10946 my-covid-record-proof-of-vaccination-status depth-3 same-level-as-node"><a href="my-covid-record-proof-vaccination-status">My Covid Record: Proof of vaccination status</a></li>
+<li class="leaf menu-mlid-10629 side-effects-and-reactions depth-3 same-level-as-node"><a href="covid-19-pfizer-vaccine-side-effects-and-reactions" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Side effects and reactions</a></li>
+<li class="leaf menu-mlid-10900 children-aged-5-to-11 depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-children-aged-5-11">Children aged 5 to 11</a></li>
+<li class="leaf menu-mlid-11034 ages-12-to-15 depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-ages-12-15" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished">Ages 12 to 15</a></li>
+<li class="leaf menu-mlid-10702 pregnancy-and-breastfeeding depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-pregnancy-and-breastfeeding" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Pregnancy and breastfeeding</a></li>
+<li class="leaf menu-mlid-10888 severely-immunocompromised-people depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-severely-immunocompromised-people" class="menu-node-unpublished menu-node-unpublished" data-is-top-level="0" title="">Severely immunocompromised people</a></li>
+<li class="leaf menu-mlid-10958 astrazeneca depth-3 same-level-as-node"><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-health-advice/covid-19-astrazeneca-vaccines" class="menu-node-unpublished">AstraZeneca</a></li>
+<li class="expanded active-trail active menu-mlid-10703 active before-your-vaccine depth-3 same-level-as-node"><a href="covid-19-your-vaccine" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished active-trail active" data-is-top-level="0" title="">Before your vaccine</a></li>
+<li class="leaf menu-mlid-10653 how-the-pfizer-vaccine-works depth-3 same-level-as-node"><a href="covid-19-how-pfizer-vaccine-works" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">How the Pfizer vaccine works</a></li>
+<li class="leaf menu-mlid-10654 how-effective-is-the-vaccine depth-3 same-level-as-node"><a href="covid-19-vaccine-effectiveness-and-protection" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">How effective is the vaccine</a></li>
+<li class="collapsed menu-mlid-10896 how-the-vaccines-are-approved depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-assessing-and-approving-vaccines">How the vaccines are approved</a></li>
+<li class="collapsed menu-mlid-10658 strategy-planning--insights depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-strategy-planning-insights" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished">Strategy, planning &amp; insights</a></li>
+<li class="collapsed menu-mlid-10625 health-professionals depth-3 same-level-as-node"><a href="covid-19-vaccine-information-health-professionals" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Health professionals</a></li>
+<li class="leaf menu-mlid-10575 vaccine-resources depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-resources" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished menu-node-unpublished">Vaccine resources</a></li>
+<li class="collapsed menu-mlid-10800 your-privacy depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-vaccine-and-your-privacy" class="menu-node-unpublished menu-node-unpublished menu-node-unpublished">Your privacy</a></li>
+<li class="last leaf menu-mlid-11013 requesting-employee-vaccination-records depth-3 same-level-as-node"><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-requesting-employee-vaccination-records" class="menu-node-unpublished">Requesting employee vaccination records</a></li>
+</ul></div>
+  </div>
+
+  
+  </div>
+</div>      <div class='panel-panel middle col-xs-12 col-md-9 col-lg-9'><div class="panel-pane pane-page-title even" >
+  
+      
+  
+  <div class="pane-content">
+    <span id="skip-content" tabindex="-1"></span>    <h1>COVID-19: Before your vaccine</h1>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-node-content odd" >
+  
+      
+  
+  <div class="pane-content">
+        <article id="node-12448" class="node node-page view-mode-full clearfix" about="/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-your-vaccine" typeof="sioc:Item foaf:Document">
+    <header>
+            <span property="dc:title" content="COVID-19: Before your vaccine" class="rdf-meta element-hidden"></span>      </header>
+    <div class="field field-name-field-intro-text field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p class="intro-text">Information for specific situations, including feeling unwell, waiting on a COVID-19 test result, underlying health conditions, pregnancy and other circumstances.</p></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p class="georgia-italic">Last updated: 14&nbsp;February 2022</p>
+
+<hr />
+<h2><a id="conditions" name="conditions"></a>Vaccine advice if you:</h2>
+
+<dl class="ckeditor-accordion">
+	<dt>
+	<h3>are unwell or have a fever</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;re unwell on the day of your vaccination or have a fever over 38&deg;C it&rsquo;s important to delay your COVID-19 vaccine until you&rsquo;re feeling better.</p>
+
+	<p>To cancel or modify your booking you can:</p>
+
+	<ul>
+		<li><a href="https://app.bookmyvaccine.covid19.health.nz/manage">manage your appointments through Book My Vaccine</a></li>
+		<li>call the COVID Vaccination Healthline on <a href="tel:0800282926">0800 28 29 26</a> (8am to 8pm, 7 days a week).</li>
+	</ul>
+	</dd>
+	<dt>
+	<h3>are getting tested for COVID-19, or have had COVID-19</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;re waiting for a COVID-19 test result, you should wait until you get a negative result or have met the criteria to stop isolating before you get vaccinated.</p>
+
+	<p><a href="https://www.health.govt.nz/covid-19-novel-coronavirus/covid-19-health-advice-public/covid-19-self-isolation-managed-isolation-quarantine">Self-isolation, managed isolation or quarantine</a></p>
+
+	<h4>If you&rsquo;ve had COVID-19</h4>
+
+	<p>You should have the COVID-19 vaccine even if you&rsquo;ve had COVID-19 (with or without symptoms). We recommend you wait at least 4 weeks after you recover before getting the vaccine.</p>
+	</dd>
+	<dt>
+	<h3>are taking antibiotics</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;re taking antibiotics you can get the COVID-19 vaccine as long as you&rsquo;re not feeling significantly unwell from your infection. You may want to talk this through with your doctor.</p>
+	</dd>
+	<dt>
+	<h3>are pregnant, trying for a baby or breastfeeding</h3>
+	</dt>
+	<dd>
+	<p>You can get the COVID-19 vaccine at any stage of pregnancy, while trying for a baby or while breastfeeding.</p>
+
+	<p>Getting the vaccine during pregnancy or while breastfeeding may also help protect your baby as there&rsquo;s evidence that infants can get antibodies to the virus through cord blood and breast milk.</p>
+
+	<p>It is recommended that pregnant people aged 18 and older receive a booster dose of the Pfizer vaccine to help protect them and their baby against the effects of COVID-19. The booster vaccine can be given at any stage of pregnancy at least 3&nbsp;months after the primary course (for most people, this is two doses).</p>
+
+	<p><a href="https://www.health.govt.nz/node/12447/">Pregnancy and breastfeeding &ndash; vaccine advice</a></p>
+	</dd>
+	<dt>
+	<h3>are getting other vaccines</h3>
+	</dt>
+	<dd>
+	<p>The majority of routine vaccinations can be administered before, after, or at the same time as your Pfizer COVID-19 vaccine.</p>
+
+	<p>The exception to this is the Zostavax (shingles) vaccine where a 7-day gap before or after receiving the Pfizer COVID-19 is advised.</p>
+	</dd>
+	<dt>
+	<h3>are immunocompromised</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;re immunocompromised, you have a higher risk of getting serious infection if you&rsquo;re exposed to COVID-19.</p>
+
+	<p>You can get the Pfizer vaccine (Comirnaty) when receiving medication or therapy that affects your immune system (immunosuppression). As with all vaccines, you may not respond as strongly as someone with a fully functioning immune system, but it can protect you from becoming very unwell if you get COVID-19.</p>
+
+	<p>The best time to be vaccinated is before any planned immunosuppression, but do not delay any treatment.</p>
+
+	<p>If you&rsquo;re severely immunocompromised, discuss the timing of your vaccination with your doctor or specialist. The vaccine can be given at any stage of treatment. You may be able to time your vaccination appointments between rounds of treatment for the best immune response.</p>
+
+	<p>To help protect yourself, encourage your family and the people you live with to also get vaccinated.</p>
+
+	<p>If you are severely immunocompromised, you may qualify for a third primary dose of the Pfizer vaccine. You should discuss this with your GP or specialist.</p>
+
+	<p>If you had a third primary dose and are aged 18 years and over, you can receive a booster dose 3&nbsp;months later.</p>
+
+	<p><a href="https://www.health.govt.nz/node/14590/">Advice for severely immunocompromised people</a></p>
+	</dd>
+	<dt>
+	<h3>have cancer</h3>
+	</dt>
+	<dd>
+	<p>People with cancer have a higher risk of getting serious infection if they&rsquo;re exposed to COVID-19 (as with others who are immunocompromised).</p>
+
+	<p>At this stage, there&rsquo;s no evidence that suggests the Pfizer vaccine (Comirnaty) interacts with cancer treatments.</p>
+
+	<p>Discuss the timing of your vaccination with your doctor or specialist. Depending on your treatment, you may be able to time your vaccination appointments between rounds of treatment for the best immune response.</p>
+
+	<p><a href="https://teaho.govt.nz/reports/cancer-care">Cancer and COVID-19 vaccines &ndash; Te Aho o Te Kahu (Cancer Control Agency)</a></p>
+
+	<p><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-getting-vaccine/covid-19-ct-scans-and-mammograms-vaccine-advice">CT scans and mammograms &ndash; vaccine advice</a></p>
+	</dd>
+	<dt>
+	<h3>are having a CT scan or mammogram after your vaccination</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;re going for a CT scan or breast screening (mammogram or ultrasound) after you get the COVID-19 vaccine, it&#39;s important to let the radiographer and/or doctor know you&rsquo;ve recently been vaccinated.</p>
+
+	<p>The vaccine can occasionally cause the lymph nodes in your armpit or neck to swell for a few days. This may be seen on the mammogram or ultrasound for up to a few weeks or in a CT scan, including those that are used to diagnose and monitor cancers.</p>
+
+	<p>If you need a CT scan, mammogram or ultrasound, you should not delay these appointments. If you have concerns, discuss them with your specialist or radiographer.</p>
+	</dd>
+	<dt>
+	<h3>have HIV</h3>
+	</dt>
+	<dd>
+	<p>If you have HIV you&rsquo;re encouraged to be vaccinated. People with HIV were included in clinical trials for the Pfizer vaccine (Comirnaty). The data specific to this group is not yet available but showed no safety concerns.</p>
+
+	<p>Based on what we know about people living with HIV and their response to other vaccines:</p>
+
+	<ul>
+		<li>you may have a weaker response to some vaccines, including the COVID-19 vaccine</li>
+		<li>if you have a suppressed viral load you&rsquo;re likely to have some protection from the COVID-19 vaccine.</li>
+	</ul>
+
+	<p>If you&rsquo;re newly diagnosed and starting HIV treatment, take advice from your specialist about the timing of your vaccination.</p>
+
+	<p>Any medication you&rsquo;re taking for HIV is not expected to change how effective the COVID-19 vaccine is. The vaccine will not affect your HIV medication.​</p>
+	</dd>
+	<dt>
+	<h3>are taking blood-thinning medication</h3>
+	</dt>
+	<dd>
+	<p>Let your vaccinator know at your appointment if you&rsquo;re taking blood-thinning medication. This is because the Pfizer vaccine (Comirnaty) is given intramuscularly (into the muscle of the upper arm), this increases the risk of bleeding for some people on these medications.</p>
+
+	<p>The vaccine itself doesn&rsquo;t have an increased risk of bleeding.</p>
+	</dd>
+	<dt>
+	<h3>have had an allergic reaction to any vaccine</h3>
+	</dt>
+	<dd>
+	<p>If you&rsquo;ve had a serious or immediate allergic reaction to any vaccine or injection in the past, discuss this with your vaccinator.</p>
+
+	<h4>If you have a history of anaphylaxis</h4>
+
+	<p>You shouldn&rsquo;t get the Pfizer vaccine (Comirnaty) if you have a history of anaphylaxis:</p>
+
+	<ul>
+		<li>to any ingredient in the Pfizer vaccine</li>
+		<li>to a previous dose of the Pfizer vaccine.</li>
+	</ul>
+
+	<p><a href="https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-how-vaccine-works#ingredients">What&rsquo;s in the Pfizer vaccine</a></p>
+	</dd>
+</dl>
+
+<p>&nbsp;</p>
+</div></div></div>    </article>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-node-links even" >
+  
+      
+  
+  <div class="pane-content">
+          </div>
+
+  
+  </div>
+</div>          </div>
+  
+  </div>
+
+</section>
+  </div>
+      </section>
+
+      
+    </div>
+    <div id="content-footer-wrapper" class="clearfix">
+      <div id="content-footer" class="clearfix">
+                  <p class="page_updated">Page last updated: <span class="date">07 March 2022</span></p>                  <div class="region region-content-footer">
+    <section id="block-moh-tools-page-tools" class="block block-moh-tools clearfix">
+  <a href="#"
+        data-placement="top"
+        data-title="Share this content."
+        data-html="true"
+        data-content="<p>Share this page on some of the most popular social networking and content sites on the internet.</p><div class='service-links'><ul><li><a href='https://twitter.com/share?url=https%3A//www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-your-vaccine&amp;text=COVID-19%3A%20Before%20your%20vaccine' title='Share this on Twitter' class='service-links-twitter' rel='nofollow'><img typeof='foaf:Image' class='img-responsive' src='../../sites/all/modules/contrib/service_links/images/twitter.png' alt='Twitter' /> Twitter</a></li>
+<li><a href='https://www.facebook.com/sharer.php?u=https%3A//www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-your-vaccine&amp;t=COVID-19%3A%20Before%20your%20vaccine' title='Share on Facebook' class='service-links-facebook' rel='nofollow'><img typeof='foaf:Image' class='img-responsive' src='../../sites/all/modules/contrib/service_links/images/facebook.png' alt='Facebook' /> Facebook</a></li>
+</ul></div>" class="share-this-content"><i class="fa fa-share"></i> Share</a><a href="covid-19-your-vaccine#" title="print this page" class="print"><i class="fa fa-print"></i> Print</a><a href="https://www.health.govt.nz/forward?path=node/12448" title="Email this page" class="email"><i class="fa fa-envelope"></i> Email</a><a href="https://www.health.govt.nz/feedback?ref=https%3A//www.health.govt.nz/covid-19-novel-coronavirus/covid-19-vaccines/covid-19-your-vaccine" title="Feedback" class="rss"><i class="fa fa-comment"></i> Feedback</a></section>
+
+  </div>
+      </div>
+    </div>
+
+  </div>
+  <footer class="footer container">
+    <h2 class='hidden'>Site Footer</h2>
+    <div class="footer-default">
+      <div class="row">
+        <div class="col-sm-6 col-md-6">
+          <div class="field field-name-field-tax-first-column-links">
+            <ul class="field-items"><li class="field-item"><a
+                href="../../node/492"
+                class=""
+                >About this site</a
+              ></li><li class="field-item"><a
+                href="../../node/524"
+                class=""
+                >Contact us</a
+              ></li><li class="field-item"><a
+                href="../../node/488"
+                class=""
+                >Other Ministry of Health websites</a
+              ></li><li class="field-item"><a
+                href="../../node/7497"
+                class=""
+                >Official Information Act requests</a
+              ></li><li class="field-item"><a
+                href="../../about-ministry/information-releases"
+                class=""
+                >Information releases</a
+              ></li><li class="field-item"><a
+                href="https://consult.health.govt.nz/"
+                class=""
+                >Consultations</a
+              ></li></ul>
+          </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+          <div class="field field-name-field-tax-footer-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><h3>Where to go for help</h3>
+
+<table>
+	<tbody>
+		<tr>
+			<th scope="row">Emergencies</th>
+			<td><strong>Dial <a href="tel:111">111</a></strong> (for ambulance, fire or police)</td>
+		</tr>
+		<tr>
+			<th scope="row">Healthline</th>
+			<td><strong>Dial <a href="tel:0800611116">0800 611 116</a></strong></td>
+		</tr>
+		<tr>
+			<th scope="row">Poisons</th>
+			<td><strong>Dial <a href="tel:0800764766">0800 POISON</a> </strong>(<a href="tel:0800764766">0800 764 766</a>)</td>
+		</tr>
+		<tr>
+			<th scope="row">Mental health crisis</th>
+			<td><strong><a href="../../your-health/services-and-support/health-care-services/mental-health-services/crisis-assessment-teams">Emergency contact numbers</a></strong></td>
+		</tr>
+	</tbody>
+</table>
+</div></div></div>        </div>
+      </div>
+      <div class="row">
+        <div class="sub-footer">
+          <div class="column col-sm-12 col-md-3">
+            <a href="https://www.govt.nz/">
+              <img src="../../sites/all/themes/mohpub_bootstrap/images/nzgovtlogo-te-kawanatanga-white.png"
+                   width="230" height="52"
+                   alt="govt.nz - connecting you to New Zealand central &amp; local government services"
+                   title="govt.nz - connecting you to New Zealand central &amp; local government services" />
+            </a>
+          </div>
+          <div class="column col-sm-12 col-md-9">
+          <span class="bottom-menu-moh with-v-divider">&copy; Ministry of Health – Manatū Hauora</span><ul class="bottom-menu-list"><li class="bottom-menu-list-item with-v-divider"><a href="../../sitemap"class="">Site map</a></li><li class="bottom-menu-list-item with-v-divider"><a href="../../about-site/privacy-and-security"class="">Privacy & security</a></li><li class="bottom-menu-list-item with-v-divider"><a href="../../about-site/copyright"class="">Copyright</a></li></ul>          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-print">&copy; Ministry of Health – Manatū Hauora</div>
+  </footer>
+  <a class="scrollToTop">Back to top <i class="fas fa-arrow-up"></i></a>
+</div>
+  <script src="../../sites/default/files/js/js_akZOsKtodu3PdnQzY3_ElOfujkLxJcowmaWgHTBBLOE.js"></script>
+</body>
+</html>
